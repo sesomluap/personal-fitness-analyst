@@ -1,0 +1,45 @@
+county,fips,year,ozonePersonDayMon,ozoneDayStdMon,ozoneDayStdMod,ozoneAvgMod,ozoneModelFlag,pm25AvgMon,pm25PersonDayMon,pm25PctMon,pm25AvgMod,pm25ModelFlag,hasMonitor,hasOzoneMonitor,hasPm25Monitor,
+"Anoka","27003","2019","347431","1","null","No data available","null","6.7","0","0","No data available","null","y","y","y"
+"Becker","27005","2019","33773","1","null","No data available","null","5.1","0","0","No data available","null","y","y","y"
+"Beltrami","27007","2019","No data available","No data available","null","No data available","null","6","95640","0.57","No data available","null","y","n","y"
+"Carlton","27017","2019","0","0","null","No data available","null","3.1","0","0","No data available","null","y","y","y"
+"Cass","27021","2019","No data available","No data available","null","No data available","null","4.2","30266","0.29","No data available","null","y","n","y"
+"Cook","27031","2019","No data available","No data available","null","No data available","null","4.4","0","0","No data available","null","y","n","y"
+"Crow Wing","27035","2019","63855","1","null","No data available","null","4.3","0","0","No data available","null","y","y","y"
+"Dakota","27037","2019","No data available","No data available","null","No data available","null","7","0","0","No data available","null","y","n","y"
+"Goodhue","27049","2019","0","0","null","No data available","null","No data available","No data available","No data available","No data available","null","y","y","n"
+"Hennepin","27053","2019","0","0","null","No data available","null","8","0","0","No data available","null","y","y","y"
+"Lake","27075","2019","0","0","null","No data available","null","4.2","0","0","No data available","null","y","y","y"
+"Lyon","27083","2019","0","0","null","No data available","null","5.9","0","0","No data available","null","y","y","y"
+"Mille Lacs","27095","2019","0","0","null","No data available","null","No data available","No data available","No data available","No data available","null","y","y","n"
+"Olmsted","27109","2019","0","0","null","No data available","null","7.3","0","0","No data available","null","y","y","y"
+"Ramsey","27123","2019","No data available","No data available","null","No data available","null","7.8","0","0","No data available","null","y","n","y"
+"St. Louis","27137","2019","0","0","null","No data available","null","5.5","200080","0.27","No data available","null","y","y","y"
+"Scott","27139","2019","0","0","null","No data available","null","6.8","0","0","No data available","null","y","y","y"
+"Stearns","27145","2019","0","0","null","No data available","null","5.7","0","0","No data available","null","y","y","y"
+"Washington","27163","2019","0","0","null","No data available","null","No data available","No data available","No data available","No data available","null","y","y","n"
+"Wright","27171","2019","0","0","null","No data available","null","5.5","0","0","No data available","null","y","y","y"
+
+Note: The National Ambient Air Quality Standard (annual) for fine particles is 12 micrograms per cubic meter of air.
+* No Data Available.  (Monitor data are not available if there were no active monitors in the county during the time selected or the active monitors did not meet the minimum completeness requirements during the time selected.)
+micrograms per cubic meter = micrograms per cubic meter of ambient air
+ppb = parts per billion
+Person-days are calculated as: (% of days above ozone/PM2.5 standard) x (number of days monitored in a year) x (county population)
+standard = US EPA National Ambient Air Quality Standard (NAAQS)
+Monitor data are levels of PM2.5 and ozone measured in the air by air quality monitors.
+These data are available only for counties with air monitors.
+Modeled air data are estimated levels of PM2.5 and ozone in the air and are available for all counties.
+Modeled air estimates may differ from the air monitor measurements.
+These data can not be used to show regulatory compliance with the National Ambient Air Quality Standard.
+
+Source:
+Minnesota Public Health Data Access
+Minnesota Environmental Public Health Tracking Program
+Minnesota Department of Health
+P.O. Box 64882
+"St. Paul, MN 55164-0882"
+Phone: (651) 201-5900 or toll free: 1-800-205-4987
+Fax: (651) 201-5926
+E-mail: tracking.health@state.mn.us
+Web: https://apps.health.state.mn.us/mndata/ 
+
