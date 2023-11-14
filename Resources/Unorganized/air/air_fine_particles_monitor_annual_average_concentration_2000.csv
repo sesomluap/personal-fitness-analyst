@@ -1,0 +1,31 @@
+county,fips,year,ozonePersonDayMon,ozoneDayStdMon,ozoneDayStdMod,ozoneAvgMod,ozoneModelFlag,pm25AvgMon,pm25PersonDayMon,pm25PctMon,pm25AvgMod,pm25ModelFlag,hasMonitor,hasOzoneMonitor,hasPm25Monitor,
+"Anoka","27003","2000","596168","2","null","No data available","0","No data available","No data available","No data available","No data available","0","y","y","n"
+"Dakota","27037","2000","355904","1","null","No data available","0","No data available","No data available","No data available","No data available","0","y","y","n"
+"Lake","27075","2000","11058","1","null","No data available","0","No data available","No data available","No data available","No data available","0","y","y","n"
+"Mille Lacs","27095","2000","22330","1","null","No data available","0","No data available","No data available","No data available","No data available","0","y","y","n"
+"St. Louis","27137","2000","200528","1","null","No data available","0","No data available","No data available","No data available","No data available","0","y","y","n"
+"Washington","27163","2000","603390","3","null","No data available","0","No data available","No data available","No data available","No data available","0","y","y","n"
+
+Note: The National Ambient Air Quality Standard (annual) for fine particles is 12 micrograms per cubic meter of air.
+* No Data Available.  (Monitor data are not available if there were no active monitors in the county during the time selected or the active monitors did not meet the minimum completeness requirements during the time selected.)
+micrograms per cubic meter = micrograms per cubic meter of ambient air
+ppb = parts per billion
+Person-days are calculated as: (% of days above ozone/PM2.5 standard) x (number of days monitored in a year) x (county population)
+standard = US EPA National Ambient Air Quality Standard (NAAQS)
+Monitor data are levels of PM2.5 and ozone measured in the air by air quality monitors.
+These data are available only for counties with air monitors.
+Modeled air data are estimated levels of PM2.5 and ozone in the air and are available for all counties.
+Modeled air estimates may differ from the air monitor measurements.
+These data can not be used to show regulatory compliance with the National Ambient Air Quality Standard.
+
+Source:
+Minnesota Public Health Data Access
+Minnesota Environmental Public Health Tracking Program
+Minnesota Department of Health
+P.O. Box 64882
+"St. Paul, MN 55164-0882"
+Phone: (651) 201-5900 or toll free: 1-800-205-4987
+Fax: (651) 201-5926
+E-mail: tracking.health@state.mn.us
+Web: https://apps.health.state.mn.us/mndata/ 
+
