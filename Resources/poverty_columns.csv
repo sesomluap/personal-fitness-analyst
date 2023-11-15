@@ -1,0 +1,549 @@
+Column Headers
+Sample Population
+Population Poverty
+Female Poverty
+Females < 5 Poverty
+Females 5 Poverty
+Females 6 to 11 Poverty
+Females 12 to 14 Poverty
+Females 15 Poverty
+Females 16 to 17 Poverty
+Females 18 to 24 Poverty
+Females 25 to 34 Poverty
+Females 35 to 44 Poverty
+Females 45 to 54 Poverty
+Females 55 to 64 Poverty
+Females 65 to 74 Poverty
+Females 75 > Poverty
+Male Poverty
+Males < 5 Poverty
+Males 5 Poverty
+Males 6 to 11 Poverty
+Males 12 to 14 Poverty
+Males 15 Poverty
+Males 16 to 17 Poverty
+Males 18 to 24 Poverty
+Males 25 to 34 Poverty
+Males 35 to 44 Poverty
+Males 45 to 54 Poverty
+Males 55 to 64 Poverty
+Males 65 to 74 Poverty
+Males 75 > Poverty
+Sample Population (White Alone)
+Population Poverty (White Alone)
+State
+Male Poverty (White Alone)
+OMB County Type
+County
+Males < 5 Poverty (White Alone)
+Males 5 Poverty (White Alone)
+Males 6 to 11 Poverty (White Alone)
+Males 12 to 14 Poverty (White Alone)
+Males 15 Poverty (White Alone)
+Males 16 to 17 Poverty (White Alone)
+Males 18 to 24 Poverty (White Alone)
+Males 25 to 34 Poverty (White Alone)
+Males 35 to 44 Poverty (White Alone)
+Males 45 to 54 Poverty (White Alone)
+Males 55 to 64 Poverty (White Alone)
+Males 65 to 74 Poverty (White Alone)
+Males 75 > Poverty (White Alone)
+Female Poverty (White Alone)
+Females < 5 Poverty (White Alone)
+Females 5 Poverty (White Alone)
+GEO_ID
+State Code
+County Code
+Females 6 to 11 Poverty (White Alone)
+Females 12 to 14 Poverty (White Alone)
+Females 15 Poverty (White Alone)
+Females 16 to 17 Poverty (White Alone)
+Females 18 to 24 Poverty (White Alone)
+Females 25 to 34 Poverty (White Alone)
+Females 35 to 44 Poverty (White Alone)
+Females 45 to 54 Poverty (White Alone)
+Females 55 to 64 Poverty (White Alone)
+Females 65 to 74 Poverty (White Alone)
+Females 75 > Poverty (White Alone)
+Sample Population (Black or African American Alone)
+Population Poverty (Black or African American Alone)
+Male Poverty (Black or African American Alone)
+Males < 5 Poverty (Black or African American Alone)
+Males 5 Poverty (Black or African American Alone)
+Males 6 to 11 Poverty (Black or African American Alone)
+Males 12 to 14 Poverty (Black or African American Alone)
+Males 15 Poverty (Black or African American Alone)
+Males 16 to 17 Poverty (Black or African American Alone)
+Males 18 to 24 Poverty (Black or African American Alone)
+Males 25 to 34 Poverty (Black or African American Alone)
+Males 35 to 44 Poverty (Black or African American Alone)
+Males 45 to 54 Poverty (Black or African American Alone)
+Males 55 to 64 Poverty (Black or African American Alone)
+Males 65 to 74 Poverty (Black or African American Alone)
+Males 75 > Poverty (Black or African American Alone)
+Female Poverty (Black or African American Alone)
+Females < 5 Poverty (Black or African American Alone)
+Females 5 Poverty (Black or African American Alone)
+Females 6 to 11 Poverty (Black or African American Alone)
+Females 12 to 14 Poverty (Black or African American Alone)
+Females 15 Poverty (Black or African American Alone)
+Females 16 to 17 Poverty (Black or African American Alone)
+Females 18 to 24 Poverty (Black or African American Alone)
+Females 25 to 34 Poverty (Black or African American Alone)
+Females 35 to 44 Poverty (Black or African American Alone)
+Females 45 to 54 Poverty (Black or African American Alone)
+Females 55 to 64 Poverty (Black or African American Alone)
+Females 65 to 74 Poverty (Black or African American Alone)
+Females 75 > Poverty (Black or African American Alone)
+Sample Population (American Indian and Alaska Native Alone)
+Population Poverty (American Indian and Alaska Native Alone)
+Male Poverty (American Indian and Alaska Native Alone)
+Males < 5 Poverty (American Indian and Alaska Native Alone)
+Males 5 Poverty (American Indian and Alaska Native Alone)
+Males 6 to 11 Poverty (American Indian and Alaska Native Alone)
+Males 12 to 14 Poverty (American Indian and Alaska Native Alone)
+Males 15 Poverty (American Indian and Alaska Native Alone)
+Males 16 to 17 Poverty (American Indian and Alaska Native Alone)
+Males 18 to 24 Poverty (American Indian and Alaska Native Alone)
+Males 25 to 34 Poverty (American Indian and Alaska Native Alone)
+Males 35 to 44 Poverty (American Indian and Alaska Native Alone)
+Males 45 to 54 Poverty (American Indian and Alaska Native Alone)
+Males 55 to 64 Poverty (American Indian and Alaska Native Alone)
+Males 65 to 74 Poverty (American Indian and Alaska Native Alone)
+Males 75 > Poverty (American Indian and Alaska Native Alone)
+Female Poverty (American Indian and Alaska Native Alone)
+Females < 5 Poverty (American Indian and Alaska Native Alone)
+Females 5 Poverty (American Indian and Alaska Native Alone)
+Females 6 to 11 Poverty (American Indian and Alaska Native Alone)
+Females 12 to 14 Poverty (American Indian and Alaska Native Alone)
+Females 15 Poverty (American Indian and Alaska Native Alone)
+Females 16 to 17 Poverty (American Indian and Alaska Native Alone)
+Females 18 to 24 Poverty (American Indian and Alaska Native Alone)
+Females 25 to 34 Poverty (American Indian and Alaska Native Alone)
+Females 35 to 44 Poverty (American Indian and Alaska Native Alone)
+Females 45 to 54 Poverty (American Indian and Alaska Native Alone)
+Females 55 to 64 Poverty (American Indian and Alaska Native Alone)
+Females 65 to 74 Poverty (American Indian and Alaska Native Alone)
+Females 75 > Poverty (American Indian and Alaska Native Alone)
+Sample Population (Asian Alone)
+Population Poverty (Asian Alone)
+Male Poverty (Asian Alone)
+Males < 5 Poverty (Asian Alone)
+Males 5 Poverty (Asian Alone)
+Males 6 to 11 Poverty (Asian Alone)
+Males 12 to 14 Poverty (Asian Alone)
+Males 15 Poverty (Asian Alone)
+Males 16 to 17 Poverty (Asian Alone)
+Males 18 to 24 Poverty (Asian Alone)
+Males 25 to 34 Poverty (Asian Alone)
+Males 35 to 44 Poverty (Asian Alone)
+Males 45 to 54 Poverty (Asian Alone)
+Males 55 to 64 Poverty (Asian Alone)
+Males 65 to 74 Poverty (Asian Alone)
+Males 75 > Poverty (Asian Alone)
+Female Poverty (Asian Alone)
+Females < 5 Poverty (Asian Alone)
+Females 5 Poverty (Asian Alone)
+Females 6 to 11 Poverty (Asian Alone)
+Females 12 to 14 Poverty (Asian Alone)
+Females 15 Poverty (Asian Alone)
+Females 16 to 17 Poverty (Asian Alone)
+Females 18 to 24 Poverty (Asian Alone)
+Females 25 to 34 Poverty (Asian Alone)
+Females 35 to 44 Poverty (Asian Alone)
+Females 45 to 54 Poverty (Asian Alone)
+Females 55 to 64 Poverty (Asian Alone)
+Females 65 to 74 Poverty (Asian Alone)
+Females 75 > Poverty (Asian Alone)
+Sample Population (Native Hawaiian and Other Pacific Islander Alone)
+Population Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Male Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males < 5 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males 5 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males 6 to 11 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males 12 to 14 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males 15 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males 16 to 17 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males 18 to 24 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males 25 to 34 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males 35 to 44 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males 45 to 54 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males 55 to 64 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males 65 to 74 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Males 75 > Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Female Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females < 5 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females 5 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females 6 to 11 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females 12 to 14 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females 15 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females 16 to 17 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females 18 to 24 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females 25 to 34 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females 35 to 44 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females 45 to 54 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females 55 to 64 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females 65 to 74 Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Females 75 > Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Sample Population (Some Other Race Alone)
+Population Poverty (Some Other Race Alone)
+Male Poverty (Some Other Race Alone)
+Males < 5 Poverty (Some Other Race Alone)
+Males 5 Poverty (Some Other Race Alone)
+Males 6 to 11 Poverty (Some Other Race Alone)
+Males 12 to 14 Poverty (Some Other Race Alone)
+Males 15 Poverty (Some Other Race Alone)
+Males 16 to 17 Poverty (Some Other Race Alone)
+Males 18 to 24 Poverty (Some Other Race Alone)
+Males 25 to 34 Poverty (Some Other Race Alone)
+Males 35 to 44 Poverty (Some Other Race Alone)
+Males 45 to 54 Poverty (Some Other Race Alone)
+Males 55 to 64 Poverty (Some Other Race Alone)
+Males 65 to 74 Poverty (Some Other Race Alone)
+Males 75 > Poverty (Some Other Race Alone)
+Female Poverty (Some Other Race Alone)
+Females < 5 Poverty (Some Other Race Alone)
+Females 5 Poverty (Some Other Race Alone)
+Females 6 to 11 Poverty (Some Other Race Alone)
+Females 12 to 14 Poverty (Some Other Race Alone)
+Females 15 Poverty (Some Other Race Alone)
+Females 16 to 17 Poverty (Some Other Race Alone)
+Females 18 to 24 Poverty (Some Other Race Alone)
+Females 25 to 34 Poverty (Some Other Race Alone)
+Females 35 to 44 Poverty (Some Other Race Alone)
+Females 45 to 54 Poverty (Some Other Race Alone)
+Females 55 to 64 Poverty (Some Other Race Alone)
+Females 65 to 74 Poverty (Some Other Race Alone)
+Females 75 > Poverty (Some Other Race Alone)
+Sample Population (Two or More Races)
+Population Poverty (Two or More Races)
+Male Poverty (Two or More Races)
+Males < 5 Poverty (Two or More Races)
+Males 5 Poverty (Two or More Races)
+Males 6 to 11 Poverty (Two or More Races)
+Males 12 to 14 Poverty (Two or More Races)
+Males 15 Poverty (Two or More Races)
+Males 16 to 17 Poverty (Two or More Races)
+Males 18 to 24 Poverty (Two or More Races)
+Males 25 to 34 Poverty (Two or More Races)
+Males 35 to 44 Poverty (Two or More Races)
+Males 45 to 54 Poverty (Two or More Races)
+Males 55 to 64 Poverty (Two or More Races)
+Males 65 to 74 Poverty (Two or More Races)
+Males 75 > Poverty (Two or More Races)
+Female Poverty (Two or More Races)
+Females < 5 Poverty (Two or More Races)
+Females 5 Poverty (Two or More Races)
+Females 6 to 11 Poverty (Two or More Races)
+Females 12 to 14 Poverty (Two or More Races)
+Females 15 Poverty (Two or More Races)
+Females 16 to 17 Poverty (Two or More Races)
+Females 18 to 24 Poverty (Two or More Races)
+Females 25 to 34 Poverty (Two or More Races)
+Females 35 to 44 Poverty (Two or More Races)
+Females 45 to 54 Poverty (Two or More Races)
+Females 55 to 64 Poverty (Two or More Races)
+Females 65 to 74 Poverty (Two or More Races)
+Females 75 > Poverty (Two or More Races)
+"Sample Population (White Alone, Not Hispanic or Latino)"
+"Population Poverty (White Alone, Not Hispanic or Latino)"
+"Male Poverty (White Alone, Not Hispanic or Latino)"
+"Males < 5 Poverty (White Alone, Not Hispanic or Latino)"
+"Males 5 Poverty (White Alone, Not Hispanic or Latino)"
+"Males 6 to 11 Poverty (White Alone, Not Hispanic or Latino)"
+"Males 12 to 14 Poverty (White Alone, Not Hispanic or Latino)"
+"Males 15 Poverty (White Alone, Not Hispanic or Latino)"
+"Males 16 to 17 Poverty (White Alone, Not Hispanic or Latino)"
+"Males 18 to 24 Poverty (White Alone, Not Hispanic or Latino)"
+"Males 25 to 34 Poverty (White Alone, Not Hispanic or Latino)"
+"Males 35 to 44 Poverty (White Alone, Not Hispanic or Latino)"
+"Males 45 to 54 Poverty (White Alone, Not Hispanic or Latino)"
+"Males 55 to 64 Poverty (White Alone, Not Hispanic or Latino)"
+"Males 65 to 74 Poverty (White Alone, Not Hispanic or Latino)"
+"Males 75 > Poverty (White Alone, Not Hispanic or Latino)"
+"Female Poverty (White Alone, Not Hispanic or Latino)"
+"Females < 5 Poverty (White Alone, Not Hispanic or Latino)"
+"Females 5 Poverty (White Alone, Not Hispanic or Latino)"
+"Females 6 to 11 Poverty (White Alone, Not Hispanic or Latino)"
+"Females 12 to 14 Poverty (White Alone, Not Hispanic or Latino)"
+"Females 15 Poverty (White Alone, Not Hispanic or Latino)"
+"Females 16 to 17 Poverty (White Alone, Not Hispanic or Latino)"
+"Females 18 to 24 Poverty (White Alone, Not Hispanic or Latino)"
+"Females 25 to 34 Poverty (White Alone, Not Hispanic or Latino)"
+"Females 35 to 44 Poverty (White Alone, Not Hispanic or Latino)"
+"Females 45 to 54 Poverty (White Alone, Not Hispanic or Latino)"
+"Females 55 to 64 Poverty (White Alone, Not Hispanic or Latino)"
+"Females 65 to 74 Poverty (White Alone, Not Hispanic or Latino)"
+"Females 75 > Poverty (White Alone, Not Hispanic or Latino)"
+Sample Population (Hispanic or Latino)
+Population Poverty (Hispanic or Latino)
+Male Poverty (Hispanic or Latino)
+Males < 5 Poverty (Hispanic or Latino)
+Males 5 Poverty (Hispanic or Latino)
+Males 6 to 11 Poverty (Hispanic or Latino)
+Males 12 to 14 Poverty (Hispanic or Latino)
+Males 15 Poverty (Hispanic or Latino)
+Males 16 to 17 Poverty (Hispanic or Latino)
+Males 18 to 24 Poverty (Hispanic or Latino)
+Males 25 to 34 Poverty (Hispanic or Latino)
+Males 35 to 44 Poverty (Hispanic or Latino)
+Males 45 to 54 Poverty (Hispanic or Latino)
+Males 55 to 64 Poverty (Hispanic or Latino)
+Males 65 to 74 Poverty (Hispanic or Latino)
+Males 75 > Poverty (Hispanic or Latino)
+Female Poverty (Hispanic or Latino)
+Females < 5 Poverty (Hispanic or Latino)
+Females 5 Poverty (Hispanic or Latino)
+Females 6 to 11 Poverty (Hispanic or Latino)
+Females 12 to 14 Poverty (Hispanic or Latino)
+Females 15 Poverty (Hispanic or Latino)
+Females 16 to 17 Poverty (Hispanic or Latino)
+Females 18 to 24 Poverty (Hispanic or Latino)
+Females 25 to 34 Poverty (Hispanic or Latino)
+Females 35 to 44 Poverty (Hispanic or Latino)
+Females 45 to 54 Poverty (Hispanic or Latino)
+Females 55 to 64 Poverty (Hispanic or Latino)
+Females 65 to 74 Poverty (Hispanic or Latino)
+Females 75 > Poverty (Hispanic or Latino)
+Year
+Child Poverty
+Child Poverty (White Alone)
+Child Poverty (Black or African American Alone)
+Child Poverty (American Indian and Alaska Native Alone)
+Child Poverty (Asian Alone)
+Child Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Child Poverty (Some Other Race Alone)
+Child Poverty (Two or More Races)
+"Child Poverty (White Alone, Not Hispanic or Latino)"
+Child Poverty (Hispanic or Latino)
+Female Child Poverty
+Female Child Poverty (White Alone)
+Female Child Poverty (Black or African American Alone)
+Female Child Poverty (American Indian and Alaska Native Alone)
+Female Child Poverty (Asian Alone)
+Female Child Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Female Child Poverty (Some Other Race Alone)
+Female Child Poverty (Two or More Races)
+"Female Child Poverty (White Alone, Not Hispanic or Latino)"
+Female Child Poverty (Hispanic or Latino)
+Male Child Poverty
+Male Child Poverty (White Alone)
+Male Child Poverty (Black or African American Alone)
+Male Child Poverty (American Indian and Alaska Native Alone)
+Male Child Poverty (Asian Alone)
+Male Child Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Male Child Poverty (Some Other Race Alone)
+Male Child Poverty (Two or More Races)
+"Male Child Poverty (White Alone, Not Hispanic or Latino)"
+Male Child Poverty (Hispanic or Latino)
+Senior Poverty
+Senior Poverty (White Alone)
+Senior Poverty (Black or African American Alone)
+Senior Poverty (American Indian and Alaska Native Alone)
+Senior Poverty (Asian Alone)
+Senior Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Senior Poverty (Some Other Race Alone)
+Senior Poverty (Two or More Races)
+"Senior Poverty (White Alone, Not Hispanic or Latino)"
+Senior Poverty (Hispanic or Latino)
+Female Senior Poverty
+Female Senior Poverty (White Alone)
+Female Senior Poverty (Black or African American Alone)
+Female Senior Poverty (American Indian and Alaska Native Alone)
+Female Senior Poverty (Asian Alone)
+Female Senior Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Female Senior Poverty (Some Other Race Alone)
+Female Senior Poverty (Two or More Races)
+"Female Senior Poverty (White Alone, Not Hispanic or Latino)"
+Female Senior Poverty (Hispanic or Latino)
+Male Senior Poverty
+Male Senior Poverty (White Alone)
+Male Senior Poverty (Black or African American Alone)
+Male Senior Poverty (American Indian and Alaska Native Alone)
+Male Senior Poverty (Asian Alone)
+Male Senior Poverty (Native Hawaiian and Other Pacific Islander Alone)
+Male Senior Poverty (Some Other Race Alone)
+Male Senior Poverty (Two or More Races)
+"Male Senior Poverty (White Alone, Not Hispanic or Latino)"
+Male Senior Poverty (Hispanic or Latino)
+Poverty %
+Poverty % (White Alone)
+Poverty % (Black or African American Alone)
+Poverty % (American Indian and Alaska Native Alone)
+Poverty % (Asian Alone)
+Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Poverty % (Some Other Race Alone)
+Poverty % (Two or More Races)
+"Poverty % (White Alone, Not Hispanic or Latino)"
+Poverty % (Hispanic or Latino)
+Female Poverty %
+Female Poverty % (White Alone)
+Female Poverty % (Black or African American Alone)
+Female Poverty % (American Indian and Alaska Native Alone)
+Female Poverty % (Asian Alone)
+Female Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Female Poverty % (Some Other Race Alone)
+Female Poverty % (Two or More Races)
+"Female Poverty % (White Alone, Not Hispanic or Latino)"
+Female Poverty % (Hispanic or Latino)
+Male Poverty %
+Male Poverty % (White Alone)
+Male Poverty % (Black or African American Alone)
+Male Poverty % (American Indian and Alaska Native Alone)
+Male Poverty % (Asian Alone)
+Male Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Male Poverty % (Some Other Race Alone)
+Male Poverty % (Two or More Races)
+"Male Poverty % (White Alone, Not Hispanic or Latino)"
+Male Poverty % (Hispanic or Latino)
+Child Poverty %
+Child Poverty % (White Alone) (White Alone)
+Child Poverty % (Black or African American Alone)
+Child Poverty % (American Indian and Alaska Native Alone)
+Child Poverty % (Asian Alone)
+Child Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Child Poverty % (Some Other Race Alone)
+Child Poverty % (Two or More Races)
+"Child Poverty % (White Alone, Not Hispanic or Latino)"
+Child Poverty % (Hispanic or Latino)
+Female Child Poverty %
+Female Child Poverty % (White Alone)
+Female Child Poverty % (Black or African American Alone)
+Female Child Poverty % (American Indian and Alaska Native Alone)
+Female Child Poverty % (Asian Alone)
+Female Child Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Female Child Poverty % (Some Other Race Alone)
+Female Child Poverty % (Two or More Races)
+"Female Child Poverty % (White Alone, Not Hispanic or Latino)"
+Child Poverty % (White Alone)
+Female Child Poverty % (Hispanic or Latino)
+Male Child Poverty %
+Male Child Poverty % (White Alone)
+Male Child Poverty % (Black or African American Alone)
+Male Child Poverty % (American Indian and Alaska Native Alone)
+Male Child Poverty % (Asian Alone)
+Male Child Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Male Child Poverty % (Some Other Race Alone)
+Male Child Poverty % (Two or More Races)
+"Male Child Poverty % (White Alone, Not Hispanic or Latino)"
+Male Child Poverty % (Hispanic or Latino)
+Senior Poverty %
+Senior Poverty % (White Alone)
+Senior Poverty % (Black or African American Alone)
+Senior Poverty % (American Indian and Alaska Native Alone)
+Senior Poverty % (Asian Alone)
+Senior Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Senior Poverty % (Some Other Race Alone)
+Senior Poverty % (Two or More Races)
+"Senior Poverty % (White Alone, Not Hispanic or Latino)"
+Senior Poverty % (Hispanic or Latino)
+Female Senior Poverty %
+Female Senior Poverty % (White Alone)
+Female Senior Poverty % (Black or African American Alone)
+Female Senior Poverty % (American Indian and Alaska Native Alone)
+Female Senior Poverty % (Asian Alone)
+Female Senior Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Female Senior Poverty % (Some Other Race Alone)
+Female Senior Poverty % (Two or More Races)
+"Female Senior Poverty % (White Alone, Not Hispanic or Latino)"
+Female Senior Poverty % (Hispanic or Latino)
+Male Senior Poverty %
+Male Senior Poverty % (White Alone)
+Male Senior Poverty % (Black or African American Alone)
+Male Senior Poverty % (American Indian and Alaska Native Alone)
+Male Senior Poverty % (Asian Alone)
+Male Senior Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Male Senior Poverty % (Some Other Race Alone)
+Male Senior Poverty % (Two or More Races)
+"Male Senior Poverty % (White Alone, Not Hispanic or Latino)"
+Male Senior Poverty % (Hispanic or Latino)
+Poverty %
+Poverty % (White Alone)
+Poverty % (Black or African American Alone)
+Poverty % (American Indian and Alaska Native Alone)
+Poverty % (Asian Alone)
+Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Poverty % (Some Other Race Alone)
+Poverty % (Two or More Races)
+"Poverty % (White Alone, Not Hispanic or Latino)"
+Poverty % (Hispanic or Latino)
+Female Poverty %
+Female Poverty % (White Alone)
+Female Poverty % (Black or African American Alone)
+Female Poverty % (American Indian and Alaska Native Alone)
+Female Poverty % (Asian Alone)
+Female Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Female Poverty % (Some Other Race Alone)
+Female Poverty % (Two or More Races)
+"Female Poverty % (White Alone, Not Hispanic or Latino)"
+Female Poverty % (Hispanic or Latino)
+Male Poverty %
+Male Poverty % (White Alone)
+Male Poverty % (Black or African American Alone)
+Male Poverty % (American Indian and Alaska Native Alone)
+Male Poverty % (Asian Alone)
+Male Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Male Poverty % (Some Other Race Alone)
+Male Poverty % (Two or More Races)
+"Male Poverty % (White Alone, Not Hispanic or Latino)"
+Male Poverty % (Hispanic or Latino)
+Child Poverty %
+Child Poverty % (White Alone)
+Child Poverty % (Black or African American Alone)
+Child Poverty % (American Indian and Alaska Native Alone)
+Child Poverty % (Asian Alone)
+Child Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Child Poverty % (Some Other Race Alone)
+Child Poverty % (Two or More Races)
+"Child Poverty % (White Alone, Not Hispanic or Latino)"
+Child Poverty % (Hispanic or Latino)
+Female Child Poverty %
+Female Child Poverty % (White Alone)
+Female Child Poverty % (Black or African American Alone)
+Female Child Poverty % (American Indian and Alaska Native Alone)
+Female Child Poverty % (Asian Alone)
+Female Child Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Female Child Poverty % (Some Other Race Alone)
+Female Child Poverty % (Two or More Races)
+"Female Child Poverty % (White Alone, Not Hispanic or Latino)"
+Female Child Poverty % (Hispanic or Latino)
+Male Child Poverty %
+Male Child Poverty % (White Alone)
+Male Child Poverty % (Black or African American Alone)
+Male Child Poverty % (American Indian and Alaska Native Alone)
+Male Child Poverty % (Asian Alone)
+Male Child Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Male Child Poverty % (Some Other Race Alone)
+Male Child Poverty % (Two or More Races)
+"Male Child Poverty % (White Alone, Not Hispanic or Latino)"
+Male Child Poverty % (Hispanic or Latino)
+Senior Poverty %
+Senior Poverty % (White Alone)
+Senior Poverty % (Black or African American Alone)
+Senior Poverty % (American Indian and Alaska Native Alone)
+Senior Poverty % (Asian Alone)
+Senior Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Senior Poverty % (Some Other Race Alone)
+Senior Poverty % (Two or More Races)
+"Senior Poverty % (White Alone, Not Hispanic or Latino)"
+Senior Poverty % (Hispanic or Latino)
+Female Senior Poverty %
+Female Senior Poverty % (White Alone)
+Female Senior Poverty % (Black or African American Alone)
+Female Senior Poverty % (American Indian and Alaska Native Alone)
+Female Senior Poverty % (Asian Alone)
+Female Senior Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Female Senior Poverty % (Some Other Race Alone)
+Female Senior Poverty % (Two or More Races)
+"Female Senior Poverty % (White Alone, Not Hispanic or Latino)"
+Female Senior Poverty % (Hispanic or Latino)
+Male Senior Poverty %
+Male Senior Poverty % (White Alone)
+Male Senior Poverty % (Black or African American Alone)
+Male Senior Poverty % (American Indian and Alaska Native Alone)
+Male Senior Poverty % (Asian Alone)
+Male Senior Poverty % (Native Hawaiian and Other Pacific Islander Alone)
+Male Senior Poverty % (Some Other Race Alone)
+Male Senior Poverty % (Two or More Races)
+"Male Senior Poverty % (White Alone, Not Hispanic or Latino)"
+Male Senior Poverty % (Hispanic or Latino)
