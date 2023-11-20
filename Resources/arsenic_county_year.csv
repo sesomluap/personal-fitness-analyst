@@ -1,0 +1,1904 @@
+﻿,year,countyServed,max arsenic (ug/L)
+0,1998,Aitkin,4.4
+1,1998,Anoka,11
+2,1998,Becker,11
+3,1998,Beltrami,3.8
+4,1998,Benton,0.5
+5,1998,Big Stone,3.8
+6,1998,Blue Earth,6.5
+7,1998,Brown,5.3
+8,1998,Carlton,1.9
+9,1998,Carver,1.4
+10,1998,Cass,3.3
+11,1998,Chippewa,3.4
+12,1998,Chisago,4.8
+13,1998,Clay,23
+14,1998,Clearwater,2.6
+15,1998,Cook,4.4
+16,1998,Cottonwood,2.9
+17,1998,Crow Wing,6.1
+18,1998,Dakota,2.9
+19,1998,Dodge,0.5
+20,1998,Douglas,3.7
+21,1998,Faribault,11
+22,1998,Fillmore,0.5
+23,1998,Freeborn,2.8
+24,1998,Goodhue,0.5
+25,1998,Hennepin,4.8
+26,1998,Houston,0.5
+27,1998,Hubbard,0.5
+28,1998,Isanti,0.5
+29,1998,Itasca,3.4
+30,1998,Jackson,0.5
+31,1998,Kandiyohi,6.2
+32,1998,Kittson,0.5
+33,1998,Koochiching,0.5
+34,1998,Lac Qui Parle,1.8
+35,1998,Lake,0.5
+36,1998,Lake of the Woods,1.5
+37,1998,Le Sueur,0.5
+38,1998,Lincoln,1.8
+39,1998,Lyon,5.3
+40,1998,Marshall,17
+41,1998,Martin,0.5
+42,1998,Meeker,3.7
+43,1998,Mille Lacs,0.5
+44,1998,Morrison,1.5
+45,1998,Mower,2
+46,1998,Murray,4.5
+47,1998,Nobles,1.8
+48,1998,Norman,3
+49,1998,Olmsted,2.1
+50,1998,Otter Tail,29
+51,1998,Pennington,0.5
+52,1998,Pine,8
+53,1998,Pipestone,1.8
+54,1998,Polk,17
+55,1998,Pope,4.5
+56,1998,Ramsey,17
+57,1998,Red Lake,1.8
+58,1998,Redwood,4.7
+59,1998,Renville,7.5
+60,1998,Rice,0.5
+61,1998,Rock,1.8
+62,1998,Roseau,5.6
+63,1998,Scott,1.4
+64,1998,Sherburne,1.4
+65,1998,St. Louis,0.5
+66,1998,Stearns,3.3
+67,1998,Steele,0.5
+68,1998,Stevens,2.5
+69,1998,Swift,3.8
+70,1998,Todd,1.5
+71,1998,Traverse,31
+72,1998,Wabasha,0.5
+73,1998,Washington,5.4
+74,1998,Watonwan,0.5
+75,1998,Wilkin,2.3
+76,1998,Wright,5.4
+77,1998,Yellow Medicine,1.8
+78,1999,Aitkin,4.4
+79,1999,Anoka,11
+80,1999,Becker,11
+81,1999,Beltrami,3.8
+82,1999,Benton,1.9
+83,1999,Big Stone,3.8
+84,1999,Blue Earth,6.9
+85,1999,Brown,5.3
+86,1999,Carlton,1.9
+87,1999,Carver,6.9
+88,1999,Cass,3.3
+89,1999,Chippewa,4
+90,1999,Chisago,4.8
+91,1999,Clay,24
+92,1999,Clearwater,2.6
+93,1999,Cook,4.4
+94,1999,Cottonwood,2.9
+95,1999,Crow Wing,6.1
+96,1999,Dakota,2.9
+97,1999,Dodge,0.5
+98,1999,Douglas,3.7
+99,1999,Faribault,11
+100,1999,Fillmore,0.5
+101,1999,Freeborn,2.8
+102,1999,Goodhue,0.5
+103,1999,Grant,25
+104,1999,Hennepin,6.5
+105,1999,Houston,0.5
+106,1999,Hubbard,0.5
+107,1999,Isanti,0.5
+108,1999,Itasca,4.9
+109,1999,Jackson,4.3
+110,1999,Kanabec,6.1
+111,1999,Kandiyohi,6.6
+112,1999,Kittson,0.5
+113,1999,Koochiching,11
+114,1999,Lac Qui Parle,1.8
+115,1999,Lake,0.5
+116,1999,Lake of the Woods,1.5
+117,1999,Le Sueur,4.5
+118,1999,Lincoln,1.8
+119,1999,Lyon,5.3
+120,1999,Mahnomen,7.4
+121,1999,Marshall,17
+122,1999,Martin,6.7
+123,1999,McLeod,39
+124,1999,Meeker,16
+125,1999,Mille Lacs,2.5
+126,1999,Morrison,4.5
+127,1999,Mower,13
+128,1999,Murray,5.2
+129,1999,Nicollet,1.01
+130,1999,Nobles,1.8
+131,1999,Norman,3
+132,1999,Olmsted,1.8
+133,1999,Otter Tail,22
+134,1999,Pennington,0.5
+135,1999,Pine,8
+136,1999,Pipestone,1.8
+137,1999,Polk,35
+138,1999,Pope,4.5
+139,1999,Ramsey,7.9
+140,1999,Red Lake,1.2
+141,1999,Redwood,4.7
+142,1999,Renville,31.7
+143,1999,Rice,2.8
+144,1999,Rock,1.8
+145,1999,Roseau,7.4
+146,1999,Scott,1.4
+147,1999,Sherburne,1.6
+148,1999,Sibley,16
+149,1999,St. Louis,4
+150,1999,Stearns,3.9
+151,1999,Steele,1.1
+152,1999,Stevens,2.5
+153,1999,Swift,7.5
+154,1999,Todd,6
+155,1999,Traverse,31
+156,1999,Wabasha,0.5
+157,1999,Wadena,2
+158,1999,Waseca,4.5
+159,1999,Washington,5.4
+160,1999,Watonwan,0.5
+161,1999,Wilkin,2.3
+162,1999,Winona,0.5
+163,1999,Wright,9
+164,1999,Yellow Medicine,2.17
+165,2001,Aitkin,4.4
+166,2001,Anoka,11
+167,2001,Becker,11
+168,2001,Beltrami,3.8
+169,2001,Benton,1.9
+170,2001,Big Stone,3.8
+171,2001,Blue Earth,6.9
+172,2001,Brown,5.3
+173,2001,Carlton,1.9
+174,2001,Carver,7.06
+175,2001,Cass,3.3
+176,2001,Chippewa,4
+177,2001,Chisago,4.8
+178,2001,Clay,29.4
+179,2001,Clearwater,2.6
+180,2001,Cook,4.4
+181,2001,Cottonwood,2.9
+182,2001,Crow Wing,6.1
+183,2001,Dakota,2.9
+184,2001,Dodge,0.5
+185,2001,Douglas,3.7
+186,2001,Faribault,11
+187,2001,Fillmore,0.5
+188,2001,Freeborn,2.8
+189,2001,Goodhue,0.5
+190,2001,Grant,25
+191,2001,Hennepin,5.96
+192,2001,Houston,0.5
+193,2001,Hubbard,0.5
+194,2001,Isanti,4.17
+195,2001,Itasca,4.9
+196,2001,Jackson,4.3
+197,2001,Kanabec,6.1
+198,2001,Kandiyohi,6.6
+199,2001,Kittson,0.5
+200,2001,Koochiching,11
+201,2001,Lac Qui Parle,1.8
+202,2001,Lake,0.5
+203,2001,Lake of the Woods,1.5
+204,2001,Le Sueur,4.5
+205,2001,Lincoln,1.8
+206,2001,Lyon,5.3
+207,2001,Mahnomen,7.4
+208,2001,Marshall,23.8
+209,2001,Martin,6.7
+210,2001,McLeod,39
+211,2001,Meeker,16
+212,2001,Mille Lacs,2.5
+213,2001,Morrison,4.5
+214,2001,Mower,13
+215,2001,Murray,5.2
+216,2001,Nicollet,10
+217,2001,Nobles,1.8
+218,2001,Norman,23.9
+219,2001,Olmsted,1.8
+220,2001,Otter Tail,22
+221,2001,Pennington,0.5
+222,2001,Pine,8
+223,2001,Pipestone,5.32
+224,2001,Polk,35
+225,2001,Pope,11.9
+226,2001,Ramsey,7.9
+227,2001,Red Lake,1.2
+228,2001,Redwood,4.7
+229,2001,Renville,31.8
+230,2001,Rice,6.48
+231,2001,Rock,3.27
+232,2001,Roseau,7.98
+233,2001,Scott,1.44
+234,2001,Sherburne,1.96
+235,2001,Sibley,16
+236,2001,St. Louis,4
+237,2001,Stearns,18.4
+238,2001,Steele,1.1
+239,2001,Stevens,2.5
+240,2001,Swift,7.5
+241,2001,Todd,6
+242,2001,Traverse,31
+243,2001,Wabasha,0.5
+244,2001,Wadena,2
+245,2001,Waseca,6.43
+246,2001,Washington,5.51
+247,2001,Watonwan,9.97
+248,2001,Wilkin,2.3
+249,2001,Winona,1.79
+250,2001,Wright,19.2
+251,2001,Yellow Medicine,21.4
+252,2002,Aitkin,4.4
+253,2002,Anoka,6.5
+254,2002,Becker,29
+255,2002,Beltrami,3.97
+256,2002,Benton,1.9
+257,2002,Big Stone,12
+258,2002,Blue Earth,7.49
+259,2002,Brown,4.83
+260,2002,Carlton,2.97
+261,2002,Carver,7.06
+262,2002,Cass,36.3
+263,2002,Chippewa,4.66
+264,2002,Chisago,4.8
+265,2002,Clay,37
+266,2002,Clearwater,2.6
+267,2002,Cook,4.22
+268,2002,Cottonwood,2.9
+269,2002,Crow Wing,8
+270,2002,Dakota,2.9
+271,2002,Dodge,0.5
+272,2002,Douglas,9.22
+273,2002,Faribault,15
+274,2002,Fillmore,1.13
+275,2002,Freeborn,2.8
+276,2002,Goodhue,0.5
+277,2002,Grant,34
+278,2002,Hennepin,5.9
+279,2002,Houston,0.5
+280,2002,Hubbard,0.5
+281,2002,Isanti,4.17
+282,2002,Itasca,3.4
+283,2002,Jackson,4.3
+284,2002,Kanabec,6.1
+285,2002,Kandiyohi,6.2
+286,2002,Kittson,0.5
+287,2002,Koochiching,12
+288,2002,Lac Qui Parle,1.8
+289,2002,Lake,0.5
+290,2002,Lake of the Woods,2.92
+291,2002,Le Sueur,4.5
+292,2002,Lincoln,1.8
+293,2002,Lyon,1.92
+294,2002,Mahnomen,9.5
+295,2002,Marshall,5.04
+296,2002,Martin,6.7
+297,2002,McLeod,43
+298,2002,Meeker,17
+299,2002,Mille Lacs,2.5
+300,2002,Morrison,4.5
+301,2002,Mower,13
+302,2002,Murray,5.2
+303,2002,Nicollet,10
+304,2002,Nobles,2.26
+305,2002,Norman,6.4
+306,2002,Olmsted,1.8
+307,2002,Otter Tail,36
+308,2002,Pennington,2.51
+309,2002,Pine,8.83
+310,2002,Pipestone,5.1
+311,2002,Polk,36
+312,2002,Pope,11.9
+313,2002,Ramsey,5.97
+314,2002,Red Lake,1.2
+315,2002,Redwood,4.7
+316,2002,Renville,23
+317,2002,Rice,6.48
+318,2002,Rock,3.27
+319,2002,Roseau,8.9
+320,2002,Scott,1.73
+321,2002,Sherburne,1.96
+322,2002,Sibley,17
+323,2002,St. Louis,4
+324,2002,Stearns,28
+325,2002,Steele,1.1
+326,2002,Stevens,2.81
+327,2002,Swift,8.9
+328,2002,Todd,6
+329,2002,Traverse,38
+330,2002,Wabasha,0.5
+331,2002,Wadena,17
+332,2002,Waseca,6.43
+333,2002,Washington,16.3
+334,2002,Watonwan,15
+335,2002,Wilkin,2.3
+336,2002,Winona,1.79
+337,2002,Wright,19
+338,2002,Yellow Medicine,29
+339,2003,Aitkin,4.4
+340,2003,Anoka,12
+341,2003,Becker,29
+342,2003,Beltrami,3.97
+343,2003,Benton,1.9
+344,2003,Big Stone,12
+345,2003,Blue Earth,7.49
+346,2003,Brown,4.83
+347,2003,Carlton,3.19
+348,2003,Carver,8.31
+349,2003,Cass,44
+350,2003,Chippewa,4.66
+351,2003,Chisago,5.5
+352,2003,Clay,37
+353,2003,Clearwater,2.6
+354,2003,Cook,4.22
+355,2003,Cottonwood,2.9
+356,2003,Crow Wing,8.17
+357,2003,Dakota,2.59
+358,2003,Dodge,0.5
+359,2003,Douglas,9.22
+360,2003,Faribault,15
+361,2003,Fillmore,1.13
+362,2003,Freeborn,9.28
+363,2003,Goodhue,0.5
+364,2003,Grant,25.5
+365,2003,Hennepin,6.46
+366,2003,Houston,0.5
+367,2003,Hubbard,0.5
+368,2003,Isanti,4.17
+369,2003,Itasca,3.4
+370,2003,Jackson,2.29
+371,2003,Kanabec,6.1
+372,2003,Kandiyohi,6.2
+373,2003,Kittson,1.06
+374,2003,Koochiching,16
+375,2003,Lac Qui Parle,1.8
+376,2003,Lake,0.5
+377,2003,Lake of the Woods,2.92
+378,2003,Le Sueur,4.5
+379,2003,Lincoln,1.8
+380,2003,Lyon,1.92
+381,2003,Mahnomen,9.5
+382,2003,Marshall,5.04
+383,2003,Martin,6.7
+384,2003,McLeod,43
+385,2003,Meeker,18.7
+386,2003,Mille Lacs,2.5
+387,2003,Morrison,4.49
+388,2003,Mower,13
+389,2003,Murray,7.17
+390,2003,Nicollet,10
+391,2003,Nobles,2.26
+392,2003,Norman,12
+393,2003,Olmsted,1.8
+394,2003,Otter Tail,36
+395,2003,Pennington,2.51
+396,2003,Pine,8.83
+397,2003,Pipestone,5.1
+398,2003,Polk,36
+399,2003,Pope,11.9
+400,2003,Ramsey,5.97
+401,2003,Red Lake,7.74
+402,2003,Redwood,4.7
+403,2003,Renville,23
+404,2003,Rice,6.48
+405,2003,Rock,3.27
+406,2003,Roseau,9.7
+407,2003,Scott,8.11
+408,2003,Sherburne,1.96
+409,2003,Sibley,17
+410,2003,St. Louis,4
+411,2003,Stearns,28
+412,2003,Steele,1.24
+413,2003,Stevens,2.81
+414,2003,Swift,8.9
+415,2003,Todd,6
+416,2003,Traverse,38
+417,2003,Wabasha,0.5
+418,2003,Wadena,17
+419,2003,Waseca,6.43
+420,2003,Washington,7.7
+421,2003,Watonwan,13
+422,2003,Wilkin,2.3
+423,2003,Winona,1.79
+424,2003,Wright,24.1
+425,2003,Yellow Medicine,29
+426,2004,Aitkin,5.82
+427,2004,Anoka,20
+428,2004,Becker,29.2
+429,2004,Beltrami,3.97
+430,2004,Benton,2.05
+431,2004,Big Stone,12
+432,2004,Blue Earth,7.49
+433,2004,Brown,4.83
+434,2004,Carlton,3.19
+435,2004,Carver,8.31
+436,2004,Cass,44
+437,2004,Chippewa,5.2
+438,2004,Chisago,5.5
+439,2004,Clay,28
+440,2004,Clearwater,2.6
+441,2004,Cook,4.22
+442,2004,Cottonwood,2.9
+443,2004,Crow Wing,8.17
+444,2004,Dakota,2.58
+445,2004,Dodge,2.93
+446,2004,Douglas,9.22
+447,2004,Faribault,15
+448,2004,Fillmore,1.13
+449,2004,Freeborn,9.28
+450,2004,Goodhue,0.5
+451,2004,Grant,35
+452,2004,Hennepin,6.46
+453,2004,Houston,0.5
+454,2004,Hubbard,0.5
+455,2004,Isanti,4.17
+456,2004,Itasca,3.4
+457,2004,Jackson,2.29
+458,2004,Kanabec,6.1
+459,2004,Kandiyohi,11.7
+460,2004,Kittson,1.06
+461,2004,Koochiching,14
+462,2004,Lac Qui Parle,8.9
+463,2004,Lake,0.5
+464,2004,Lake of the Woods,2.92
+465,2004,Le Sueur,4.5
+466,2004,Lincoln,1.5
+467,2004,Lyon,1.92
+468,2004,Mahnomen,9.43
+469,2004,Marshall,6.86
+470,2004,Martin,7.86
+471,2004,McLeod,42.9
+472,2004,Meeker,18.7
+473,2004,Mille Lacs,2.5
+474,2004,Morrison,4.49
+475,2004,Mower,13
+476,2004,Murray,7.17
+477,2004,Nicollet,10
+478,2004,Nobles,2.26
+479,2004,Norman,12
+480,2004,Olmsted,2.01
+481,2004,Otter Tail,53
+482,2004,Pennington,2.51
+483,2004,Pine,8.83
+484,2004,Pipestone,5.1
+485,2004,Polk,42.9
+486,2004,Pope,11.9
+487,2004,Ramsey,5.97
+488,2004,Red Lake,7.74
+489,2004,Redwood,4.7
+490,2004,Renville,13
+491,2004,Rice,6.48
+492,2004,Rock,3.27
+493,2004,Roseau,10.1
+494,2004,Scott,7.61
+495,2004,Sherburne,3.13
+496,2004,Sibley,17.6
+497,2004,St. Louis,5.18
+498,2004,Stearns,21.2
+499,2004,Steele,1.24
+500,2004,Stevens,2.81
+501,2004,Swift,8.9
+502,2004,Todd,6
+503,2004,Traverse,38
+504,2004,Wabasha,0.5
+505,2004,Wadena,17
+506,2004,Waseca,4.5
+507,2004,Washington,7.7
+508,2004,Watonwan,13
+509,2004,Wilkin,2.3
+510,2004,Winona,1.79
+511,2004,Wright,24.1
+512,2004,Yellow Medicine,29
+513,2005,Aitkin,5.82
+514,2005,Anoka,15
+515,2005,Becker,19
+516,2005,Beltrami,4.15
+517,2005,Benton,2.61
+518,2005,Big Stone,4.52
+519,2005,Blue Earth,7.49
+520,2005,Brown,4.83
+521,2005,Carlton,3.19
+522,2005,Carver,8.9
+523,2005,Cass,4.2
+524,2005,Chippewa,5.2
+525,2005,Chisago,5.5
+526,2005,Clay,32
+527,2005,Clearwater,2.6
+528,2005,Cook,3.69
+529,2005,Cottonwood,2.9
+530,2005,Crow Wing,8.17
+531,2005,Dakota,2.58
+532,2005,Dodge,2.93
+533,2005,Douglas,9.22
+534,2005,Faribault,14
+535,2005,Fillmore,1.26
+536,2005,Freeborn,9.28
+537,2005,Goodhue,0.5
+538,2005,Grant,51
+539,2005,Hennepin,13
+540,2005,Houston,0.5
+541,2005,Hubbard,0.5
+542,2005,Isanti,4.67
+543,2005,Itasca,3.55
+544,2005,Jackson,3.82
+545,2005,Kanabec,6.1
+546,2005,Kandiyohi,11.7
+547,2005,Kittson,1.06
+548,2005,Koochiching,11
+549,2005,Lac Qui Parle,16
+550,2005,Lake,0.5
+551,2005,Lake of the Woods,2.92
+552,2005,Le Sueur,4.5
+553,2005,Lincoln,1.5
+554,2005,Lyon,1.92
+555,2005,Mahnomen,9.43
+556,2005,Marshall,6.86
+557,2005,Martin,7.86
+558,2005,McLeod,8.3
+559,2005,Meeker,21
+560,2005,Mille Lacs,2.5
+561,2005,Morrison,4.49
+562,2005,Mower,13
+563,2005,Murray,6.59
+564,2005,Nicollet,10
+565,2005,Nobles,2.26
+566,2005,Norman,16
+567,2005,Olmsted,2.01
+568,2005,Otter Tail,48
+569,2005,Pennington,2.51
+570,2005,Pine,3.33
+571,2005,Pipestone,5.1
+572,2005,Polk,13
+573,2005,Pope,11.9
+574,2005,Ramsey,5.97
+575,2005,Red Lake,4.44
+576,2005,Redwood,4.7
+577,2005,Renville,23
+578,2005,Rice,6.48
+579,2005,Rock,8.61
+580,2005,Roseau,8.9
+581,2005,Scott,7.61
+582,2005,Sherburne,3.13
+583,2005,Sibley,17
+584,2005,St. Louis,5.18
+585,2005,Stearns,14.3
+586,2005,Steele,1.24
+587,2005,Stevens,2.81
+588,2005,Swift,9
+589,2005,Todd,6
+590,2005,Traverse,37
+591,2005,Wabasha,0.5
+592,2005,Wadena,17
+593,2005,Waseca,4.5
+594,2005,Washington,8.11
+595,2005,Watonwan,13
+596,2005,Wilkin,2.3
+597,2005,Winona,1.79
+598,2005,Wright,7.59
+599,2005,Yellow Medicine,29
+600,2007,Aitkin,5.82
+601,2007,Anoka,15
+602,2007,Becker,12
+603,2007,Beltrami,4.4
+604,2007,Benton,2.61
+605,2007,Big Stone,4.52
+606,2007,Blue Earth,7.49
+607,2007,Brown,4.83
+608,2007,Carlton,3.19
+609,2007,Carver,7.83
+610,2007,Cass,21
+611,2007,Chippewa,5.2
+612,2007,Chisago,5.5
+613,2007,Clay,10.5
+614,2007,Clearwater,2.6
+615,2007,Cook,3.69
+616,2007,Cottonwood,2.9
+617,2007,Crow Wing,8.17
+618,2007,Dakota,2.58
+619,2007,Dodge,2.93
+620,2007,Douglas,9.22
+621,2007,Faribault,7.3
+622,2007,Fillmore,1.26
+623,2007,Freeborn,9.28
+624,2007,Goodhue,2.74
+625,2007,Grant,36
+626,2007,Hennepin,5.9
+627,2007,Houston,0.5
+628,2007,Hubbard,0.5
+629,2007,Isanti,3.06
+630,2007,Itasca,3.91
+631,2007,Jackson,3.82
+632,2007,Kanabec,6.1
+633,2007,Kandiyohi,11.7
+634,2007,Kittson,1.06
+635,2007,Koochiching,11
+636,2007,Lac Qui Parle,16
+637,2007,Lake,0.5
+638,2007,Lake of the Woods,2.92
+639,2007,Le Sueur,4.5
+640,2007,Lincoln,1.5
+641,2007,Lyon,1.92
+642,2007,Mahnomen,4.13
+643,2007,Marshall,6.86
+644,2007,Martin,7.86
+645,2007,McLeod,13
+646,2007,Meeker,21
+647,2007,Mille Lacs,2.5
+648,2007,Morrison,4.49
+649,2007,Mower,13
+650,2007,Murray,6.59
+651,2007,Nicollet,10
+652,2007,Nobles,2.26
+653,2007,Norman,12
+654,2007,Olmsted,2.01
+655,2007,Otter Tail,49
+656,2007,Pennington,2.51
+657,2007,Pine,2.93
+658,2007,Pipestone,5.1
+659,2007,Polk,6.49
+660,2007,Pope,11.9
+661,2007,Ramsey,5.97
+662,2007,Red Lake,4.44
+663,2007,Redwood,4.7
+664,2007,Renville,19
+665,2007,Rice,6.48
+666,2007,Rock,8.61
+667,2007,Roseau,8.9
+668,2007,Scott,7.61
+669,2007,Sherburne,3.13
+670,2007,Sibley,5.3
+671,2007,St. Louis,5.18
+672,2007,Stearns,18
+673,2007,Steele,1.24
+674,2007,Stevens,2.83
+675,2007,Swift,9
+676,2007,Todd,4.85
+677,2007,Traverse,34
+678,2007,Wabasha,0.5
+679,2007,Wadena,17
+680,2007,Waseca,4.5
+681,2007,Washington,8.11
+682,2007,Watonwan,13
+683,2007,Wilkin,2.3
+684,2007,Winona,1.79
+685,2007,Wright,7.41
+686,2007,Yellow Medicine,26
+687,2008,Aitkin,5.82
+688,2008,Anoka,11
+689,2008,Becker,22
+690,2008,Beltrami,4.46
+691,2008,Benton,2.61
+692,2008,Big Stone,4.52
+693,2008,Blue Earth,7.49
+694,2008,Brown,4.83
+695,2008,Carlton,3.19
+696,2008,Carver,7.83
+697,2008,Cass,6.3
+698,2008,Chippewa,4.43
+699,2008,Chisago,5.5
+700,2008,Clay,5.83
+701,2008,Clearwater,2.6
+702,2008,Cook,3.69
+703,2008,Cottonwood,0.5
+704,2008,Crow Wing,8.17
+705,2008,Dakota,2.58
+706,2008,Dodge,2.93
+707,2008,Douglas,5.11
+708,2008,Faribault,7.3
+709,2008,Fillmore,1.26
+710,2008,Freeborn,9.28
+711,2008,Goodhue,2.74
+712,2008,Grant,36
+713,2008,Hennepin,5.9
+714,2008,Houston,0.5
+715,2008,Hubbard,0.5
+716,2008,Isanti,1.14
+717,2008,Itasca,3.91
+718,2008,Jackson,3.82
+719,2008,Kanabec,5.08
+720,2008,Kandiyohi,17
+721,2008,Kittson,1.06
+722,2008,Koochiching,11
+723,2008,Lac Qui Parle,12.4
+724,2008,Lake,0.5
+725,2008,Lake of the Woods,2.92
+726,2008,Le Sueur,5.47
+727,2008,Lincoln,1.5
+728,2008,Lyon,1.92
+729,2008,Mahnomen,4.13
+730,2008,Marshall,6.86
+731,2008,Martin,7.86
+732,2008,McLeod,10
+733,2008,Meeker,6.6
+734,2008,Mille Lacs,2.4
+735,2008,Morrison,4.49
+736,2008,Mower,13
+737,2008,Murray,5.57
+738,2008,Nicollet,2.51
+739,2008,Nobles,2.26
+740,2008,Norman,16
+741,2008,Olmsted,2.27
+742,2008,Otter Tail,53
+743,2008,Pennington,2.51
+744,2008,Pine,2.93
+745,2008,Pipestone,5.1
+746,2008,Polk,6.91
+747,2008,Pope,10
+748,2008,Ramsey,5.97
+749,2008,Red Lake,3.9
+750,2008,Redwood,4.7
+751,2008,Renville,44
+752,2008,Rice,6.48
+753,2008,Rock,8.61
+754,2008,Roseau,8.9
+755,2008,Scott,4.35
+756,2008,Sherburne,3.13
+757,2008,Sibley,8.6
+758,2008,St. Louis,5.18
+759,2008,Stearns,27
+760,2008,Steele,1.24
+761,2008,Stevens,2.83
+762,2008,Swift,8.1
+763,2008,Todd,4.85
+764,2008,Traverse,42
+765,2008,Wabasha,0.5
+766,2008,Wadena,1.62
+767,2008,Waseca,3.79
+768,2008,Washington,8.11
+769,2008,Watonwan,8.2
+770,2008,Wilkin,2.3
+771,2008,Winona,0.5
+772,2008,Wright,7.41
+773,2008,Yellow Medicine,5
+774,2009,Aitkin,5.82
+775,2009,Anoka,17.5
+776,2009,Becker,17
+777,2009,Beltrami,8.09
+778,2009,Benton,2.61
+779,2009,Big Stone,4.52
+780,2009,Blue Earth,7.49
+781,2009,Brown,4.83
+782,2009,Carlton,3.19
+783,2009,Carver,7.83
+784,2009,Cass,39
+785,2009,Chippewa,4.43
+786,2009,Chisago,5.5
+787,2009,Clay,10.1
+788,2009,Clearwater,4.28
+789,2009,Cook,3.69
+790,2009,Cottonwood,4.57
+791,2009,Crow Wing,8.17
+792,2009,Dakota,2.58
+793,2009,Dodge,2.93
+794,2009,Douglas,5.11
+795,2009,Faribault,8.38
+796,2009,Fillmore,1.26
+797,2009,Freeborn,9.28
+798,2009,Goodhue,2.74
+799,2009,Grant,41
+800,2009,Hennepin,8.93
+801,2009,Houston,0.5
+802,2009,Hubbard,0.5
+803,2009,Isanti,1.14
+804,2009,Itasca,5.29
+805,2009,Jackson,3.82
+806,2009,Kanabec,5.08
+807,2009,Kandiyohi,16
+808,2009,Kittson,1.06
+809,2009,Koochiching,15
+810,2009,Lac Qui Parle,16
+811,2009,Lake,0.5
+812,2009,Lake of the Woods,2.92
+813,2009,Le Sueur,5.47
+814,2009,Lincoln,1.5
+815,2009,Lyon,1.92
+816,2009,Mahnomen,4.59
+817,2009,Marshall,6.86
+818,2009,Martin,7.86
+819,2009,McLeod,42.4
+820,2009,Meeker,17
+821,2009,Mille Lacs,2.65
+822,2009,Morrison,4.49
+823,2009,Mower,3.06
+824,2009,Murray,5.57
+825,2009,Nicollet,2.51
+826,2009,Nobles,2.26
+827,2009,Norman,16
+828,2009,Olmsted,2.27
+829,2009,Otter Tail,48
+830,2009,Pennington,2.51
+831,2009,Pine,2.93
+832,2009,Pipestone,5.1
+833,2009,Polk,23
+834,2009,Pope,12
+835,2009,Ramsey,6.3
+836,2009,Red Lake,3.9
+837,2009,Redwood,3.04
+838,2009,Renville,46
+839,2009,Rice,6.48
+840,2009,Rock,8.61
+841,2009,Roseau,11
+842,2009,Scott,4.62
+843,2009,Sherburne,3.27
+844,2009,Sibley,10
+845,2009,St. Louis,6.97
+846,2009,Stearns,22
+847,2009,Steele,1.24
+848,2009,Stevens,2.83
+849,2009,Swift,5.27
+850,2009,Todd,4.85
+851,2009,Traverse,50
+852,2009,Wabasha,1.22
+853,2009,Wadena,1.62
+854,2009,Waseca,3.79
+855,2009,Washington,4.8
+856,2009,Watonwan,8.2
+857,2009,Wilkin,2.5
+858,2009,Winona,1.02
+859,2009,Wright,7.01
+860,2009,Yellow Medicine,6.4
+861,2010,Aitkin,5.82
+862,2010,Anoka,12.6
+863,2010,Becker,15.7
+864,2010,Beltrami,5.56
+865,2010,Benton,2.61
+866,2010,Big Stone,4.52
+867,2010,Blue Earth,7.49
+868,2010,Brown,4.86
+869,2010,Carlton,4.51
+870,2010,Carver,7.27
+871,2010,Cass,25.3
+872,2010,Chippewa,4.61
+873,2010,Chisago,5.5
+874,2010,Clay,5.83
+875,2010,Clearwater,4.28
+876,2010,Cook,3.69
+877,2010,Cottonwood,0.5
+878,2010,Crow Wing,8.17
+879,2010,Dakota,14.8
+880,2010,Dodge,2.93
+881,2010,Douglas,7.06
+882,2010,Faribault,8.38
+883,2010,Fillmore,2.5
+884,2010,Freeborn,9.28
+885,2010,Goodhue,2.74
+886,2010,Grant,30.4
+887,2010,Hennepin,6.87
+888,2010,Houston,0.5
+889,2010,Hubbard,0.5
+890,2010,Isanti,1.07
+891,2010,Itasca,3.91
+892,2010,Jackson,3.82
+893,2010,Kanabec,5.08
+894,2010,Kandiyohi,9.09
+895,2010,Kittson,1.28
+896,2010,Koochiching,14.1
+897,2010,Lac Qui Parle,2.5
+898,2010,Lake,0.5
+899,2010,Lake of the Woods,3.23
+900,2010,Le Sueur,5.47
+901,2010,Lincoln,1.5
+902,2010,Lyon,3.18
+903,2010,Mahnomen,6.83
+904,2010,Marshall,6.86
+905,2010,Martin,7.86
+906,2010,McLeod,27.3
+907,2010,Meeker,6.22
+908,2010,Mille Lacs,4.58
+909,2010,Morrison,4.02
+910,2010,Mower,3.92
+911,2010,Murray,5.57
+912,2010,Nicollet,2.51
+913,2010,Nobles,2.26
+914,2010,Norman,12.9
+915,2010,Olmsted,2.27
+916,2010,Otter Tail,11.1
+917,2010,Pennington,2.5
+918,2010,Pine,2.93
+919,2010,Pipestone,4.44
+920,2010,Polk,13.7
+921,2010,Pope,11.4
+922,2010,Ramsey,7.66
+923,2010,Red Lake,3.9
+924,2010,Redwood,3.66
+925,2010,Renville,4.43
+926,2010,Rice,5.27
+927,2010,Rock,8.61
+928,2010,Roseau,10.3
+929,2010,Scott,4.62
+930,2010,Sherburne,3.27
+931,2010,Sibley,7.79
+932,2010,St. Louis,5.73
+933,2010,Stearns,6.94
+934,2010,Steele,1.24
+935,2010,Stevens,5.37
+936,2010,Swift,5.27
+937,2010,Todd,4.85
+938,2010,Traverse,5.34
+939,2010,Wabasha,1.91
+940,2010,Wadena,1.62
+941,2010,Waseca,3.79
+942,2010,Washington,3.76
+943,2010,Watonwan,4.95
+944,2010,Wilkin,2.5
+945,2010,Winona,1.02
+946,2010,Wright,6.54
+947,2010,Yellow Medicine,12.9
+948,2011,Aitkin,5.82
+949,2011,Anoka,12.4
+950,2011,Becker,11.8
+951,2011,Beltrami,5.56
+952,2011,Benton,2.61
+953,2011,Big Stone,4.52
+954,2011,Blue Earth,7.49
+955,2011,Brown,4.86
+956,2011,Carlton,4.51
+957,2011,Carver,11.8
+958,2011,Cass,3.3
+959,2011,Chippewa,4.61
+960,2011,Chisago,5.15
+961,2011,Clay,8.44
+962,2011,Clearwater,4.28
+963,2011,Cook,3.69
+964,2011,Cottonwood,0.5
+965,2011,Crow Wing,11.6
+966,2011,Dakota,2.25
+967,2011,Dodge,2.93
+968,2011,Douglas,7.06
+969,2011,Faribault,8.38
+970,2011,Fillmore,2.5
+971,2011,Freeborn,13.4
+972,2011,Goodhue,2.74
+973,2011,Grant,22.3
+974,2011,Hennepin,6.19
+975,2011,Houston,1.42
+976,2011,Hubbard,0.5
+977,2011,Isanti,1.07
+978,2011,Itasca,3.91
+979,2011,Jackson,12.5
+980,2011,Kanabec,5.08
+981,2011,Kandiyohi,9.09
+982,2011,Kittson,1.28
+983,2011,Koochiching,10.9
+984,2011,Lac Qui Parle,4.1
+985,2011,Lake,0.5
+986,2011,Lake of the Woods,3.23
+987,2011,Le Sueur,5.47
+988,2011,Lincoln,1.5
+989,2011,Lyon,3.69
+990,2011,Mahnomen,6.83
+991,2011,Marshall,6.86
+992,2011,Martin,7.86
+993,2011,McLeod,18.7
+994,2011,Meeker,6.16
+995,2011,Mille Lacs,4.58
+996,2011,Morrison,4.02
+997,2011,Mower,3.92
+998,2011,Murray,5.57
+999,2011,Nicollet,2.51
+1000,2011,Nobles,2.26
+1001,2011,Norman,6.05
+1002,2011,Olmsted,2.27
+1003,2011,Otter Tail,13.6
+1004,2011,Pennington,2.5
+1005,2011,Pine,2.93
+1006,2011,Pipestone,4.44
+1007,2011,Polk,14.1
+1008,2011,Pope,9.89
+1009,2011,Ramsey,7.66
+1010,2011,Red Lake,2.71
+1011,2011,Redwood,3.66
+1012,2011,Renville,4.93
+1013,2011,Rice,5.27
+1014,2011,Rock,8.61
+1015,2011,Roseau,11.9
+1016,2011,Scott,4.35
+1017,2011,Sherburne,3.27
+1018,2011,Sibley,7.79
+1019,2011,St. Louis,5.73
+1020,2011,Stearns,6.94
+1021,2011,Steele,1.64
+1022,2011,Stevens,5.37
+1023,2011,Swift,3.66
+1024,2011,Todd,4.85
+1025,2011,Traverse,5.06
+1026,2011,Wabasha,1.91
+1027,2011,Wadena,1.62
+1028,2011,Waseca,3.79
+1029,2011,Washington,4.39
+1030,2011,Watonwan,6.66
+1031,2011,Wilkin,2.5
+1032,2011,Winona,1.02
+1033,2011,Wright,7.69
+1034,2011,Yellow Medicine,4.53
+1035,2013,Aitkin,4.83
+1036,2013,Anoka,9.7
+1037,2013,Becker,12.7
+1038,2013,Beltrami,6.05
+1039,2013,Benton,2.61
+1040,2013,Big Stone,4.52
+1041,2013,Blue Earth,7.49
+1042,2013,Brown,4.86
+1043,2013,Carlton,4.88
+1044,2013,Carver,6.5
+1045,2013,Cass,3.3
+1046,2013,Chippewa,4.61
+1047,2013,Chisago,5.15
+1048,2013,Clay,15.3
+1049,2013,Clearwater,4.28
+1050,2013,Cook,3.69
+1051,2013,Cottonwood,0.5
+1052,2013,Crow Wing,7.21
+1053,2013,Dakota,1.37
+1054,2013,Dodge,2.49
+1055,2013,Douglas,7.06
+1056,2013,Faribault,8.38
+1057,2013,Fillmore,2.5
+1058,2013,Freeborn,14
+1059,2013,Goodhue,2.74
+1060,2013,Grant,13.4
+1061,2013,Hennepin,9
+1062,2013,Houston,1.42
+1063,2013,Hubbard,0.5
+1064,2013,Isanti,1.07
+1065,2013,Itasca,3.91
+1066,2013,Jackson,9.3
+1067,2013,Kanabec,5.08
+1068,2013,Kandiyohi,9.09
+1069,2013,Kittson,1.28
+1070,2013,Koochiching,9.71
+1071,2013,Lac Qui Parle,5.4
+1072,2013,Lake,0.5
+1073,2013,Lake of the Woods,3.23
+1074,2013,Le Sueur,5.47
+1075,2013,Lincoln,1.86
+1076,2013,Lyon,3.18
+1077,2013,Mahnomen,8.79
+1078,2013,Marshall,6.86
+1079,2013,Martin,7.86
+1080,2013,McLeod,9.61
+1081,2013,Meeker,5.8
+1082,2013,Mille Lacs,4.58
+1083,2013,Morrison,4.02
+1084,2013,Mower,3.92
+1085,2013,Murray,9.16
+1086,2013,Nicollet,2.51
+1087,2013,Nobles,2.26
+1088,2013,Norman,6.47
+1089,2013,Olmsted,2.27
+1090,2013,Otter Tail,16.3
+1091,2013,Pennington,2.5
+1092,2013,Pine,2.84
+1093,2013,Pipestone,4.44
+1094,2013,Polk,15.9
+1095,2013,Pope,10.4
+1096,2013,Ramsey,7.66
+1097,2013,Red Lake,2.71
+1098,2013,Redwood,2.2
+1099,2013,Renville,4.16
+1100,2013,Rice,4.76
+1101,2013,Rock,8.61
+1102,2013,Roseau,15.5
+1103,2013,Scott,4.35
+1104,2013,Sherburne,5.46
+1105,2013,Sibley,20.6
+1106,2013,St. Louis,5.73
+1107,2013,Stearns,6.94
+1108,2013,Steele,1.64
+1109,2013,Stevens,5.37
+1110,2013,Swift,7.72
+1111,2013,Todd,4.85
+1112,2013,Traverse,4.39
+1113,2013,Wabasha,1.91
+1114,2013,Wadena,1.62
+1115,2013,Waseca,3.79
+1116,2013,Washington,4.39
+1117,2013,Watonwan,6.66
+1118,2013,Wilkin,2.5
+1119,2013,Winona,1.02
+1120,2013,Wright,7.44
+1121,2013,Yellow Medicine,4.53
+1122,2014,Aitkin,4.83
+1123,2014,Anoka,9.76
+1124,2014,Becker,11.7
+1125,2014,Beltrami,6.05
+1126,2014,Benton,2.61
+1127,2014,Big Stone,3.98
+1128,2014,Blue Earth,7.49
+1129,2014,Brown,4.86
+1130,2014,Carlton,4.88
+1131,2014,Carver,6.5
+1132,2014,Cass,3.3
+1133,2014,Chippewa,4.61
+1134,2014,Chisago,5.15
+1135,2014,Clay,15.3
+1136,2014,Clearwater,4.28
+1137,2014,Cook,3.69
+1138,2014,Cottonwood,0.5
+1139,2014,Crow Wing,7.42
+1140,2014,Dakota,1.1
+1141,2014,Dodge,2.49
+1142,2014,Douglas,6.52
+1143,2014,Faribault,8.38
+1144,2014,Fillmore,2.5
+1145,2014,Freeborn,11.9
+1146,2014,Goodhue,7.44
+1147,2014,Grant,32
+1148,2014,Hennepin,9.65
+1149,2014,Houston,1.42
+1150,2014,Hubbard,0.5
+1151,2014,Isanti,1.15
+1152,2014,Itasca,4.65
+1153,2014,Jackson,7.6
+1154,2014,Kanabec,5.08
+1155,2014,Kandiyohi,9.43
+1156,2014,Kittson,1.28
+1157,2014,Koochiching,10.2
+1158,2014,Lac Qui Parle,1.86
+1159,2014,Lake,0.5
+1160,2014,Lake of the Woods,3.23
+1161,2014,Le Sueur,5.47
+1162,2014,Lincoln,1.86
+1163,2014,Lyon,3.18
+1164,2014,Mahnomen,8.79
+1165,2014,Marshall,6.86
+1166,2014,Martin,8.64
+1167,2014,McLeod,9.22
+1168,2014,Meeker,7.64
+1169,2014,Mille Lacs,2.72
+1170,2014,Morrison,4.02
+1171,2014,Mower,3.92
+1172,2014,Murray,9.16
+1173,2014,Nicollet,2.51
+1174,2014,Nobles,2.26
+1175,2014,Norman,6.05
+1176,2014,Olmsted,2.27
+1177,2014,Otter Tail,10.2
+1178,2014,Pennington,2.5
+1179,2014,Pine,2.84
+1180,2014,Pipestone,4.44
+1181,2014,Polk,24.7
+1182,2014,Pope,10.4
+1183,2014,Ramsey,7.66
+1184,2014,Red Lake,2.71
+1185,2014,Redwood,2.2
+1186,2014,Renville,18.8
+1187,2014,Rice,4.76
+1188,2014,Rock,8.61
+1189,2014,Roseau,9.55
+1190,2014,Scott,4.35
+1191,2014,Sherburne,5.46
+1192,2014,Sibley,4.61
+1193,2014,St. Louis,5.73
+1194,2014,Stearns,6.94
+1195,2014,Steele,1.64
+1196,2014,Stevens,5.37
+1197,2014,Swift,3.16
+1198,2014,Todd,4.85
+1199,2014,Traverse,3.71
+1200,2014,Wabasha,1.1
+1201,2014,Wadena,1.62
+1202,2014,Waseca,3.79
+1203,2014,Washington,4.39
+1204,2014,Watonwan,7.97
+1205,2014,Wilkin,2.5
+1206,2014,Winona,1.02
+1207,2014,Wright,7.44
+1208,2014,Yellow Medicine,13.5
+1209,2015,Aitkin,6.51
+1210,2015,Anoka,8.78
+1211,2015,Becker,11.8
+1212,2015,Beltrami,6.05
+1213,2015,Benton,2.61
+1214,2015,Big Stone,3.98
+1215,2015,Blue Earth,7.49
+1216,2015,Brown,4.86
+1217,2015,Carlton,4.88
+1218,2015,Carver,6.5
+1219,2015,Cass,6.82
+1220,2015,Chippewa,4.61
+1221,2015,Chisago,5.15
+1222,2015,Clay,7.05
+1223,2015,Clearwater,4.28
+1224,2015,Cook,3.69
+1225,2015,Cottonwood,0.5
+1226,2015,Crow Wing,7.42
+1227,2015,Dakota,0.5
+1228,2015,Dodge,2.49
+1229,2015,Douglas,6.52
+1230,2015,Faribault,8.38
+1231,2015,Fillmore,2.5
+1232,2015,Freeborn,11.9
+1233,2015,Goodhue,7.44
+1234,2015,Grant,32
+1235,2015,Hennepin,8.31
+1236,2015,Houston,1.42
+1237,2015,Hubbard,0.5
+1238,2015,Isanti,1.15
+1239,2015,Itasca,4.65
+1240,2015,Jackson,6.92
+1241,2015,Kanabec,5.08
+1242,2015,Kandiyohi,12.4
+1243,2015,Kittson,1.28
+1244,2015,Koochiching,3.38
+1245,2015,Lac Qui Parle,1.86
+1246,2015,Lake,0.5
+1247,2015,Lake of the Woods,3.23
+1248,2015,Le Sueur,5.47
+1249,2015,Lincoln,1.86
+1250,2015,Lyon,3.18
+1251,2015,Mahnomen,8.79
+1252,2015,Marshall,4.99
+1253,2015,Martin,8.64
+1254,2015,McLeod,8.37
+1255,2015,Meeker,9.87
+1256,2015,Mille Lacs,2.72
+1257,2015,Morrison,4.02
+1258,2015,Mower,3.92
+1259,2015,Murray,9.16
+1260,2015,Nicollet,2.51
+1261,2015,Nobles,1.86
+1262,2015,Norman,4.87
+1263,2015,Olmsted,2.27
+1264,2015,Otter Tail,9.89
+1265,2015,Pennington,2.5
+1266,2015,Pine,2.7
+1267,2015,Pipestone,4.44
+1268,2015,Polk,18.3
+1269,2015,Pope,11.2
+1270,2015,Ramsey,7.66
+1271,2015,Red Lake,2.71
+1272,2015,Redwood,2.2
+1273,2015,Renville,6.24
+1274,2015,Rice,4.76
+1275,2015,Rock,6.22
+1276,2015,Roseau,13.4
+1277,2015,Scott,4.35
+1278,2015,Sherburne,5.46
+1279,2015,Sibley,5.25
+1280,2015,St. Louis,5.73
+1281,2015,Stearns,10.7
+1282,2015,Steele,1.24
+1283,2015,Stevens,5.37
+1284,2015,Swift,3.42
+1285,2015,Todd,4.85
+1286,2015,Traverse,3.75
+1287,2015,Wabasha,1.1
+1288,2015,Wadena,1.62
+1289,2015,Waseca,3.79
+1290,2015,Washington,4.39
+1291,2015,Watonwan,7.97
+1292,2015,Wilkin,2.5
+1293,2015,Winona,1.02
+1294,2015,Wright,7.44
+1295,2015,Yellow Medicine,15.6
+1296,2016,Aitkin,6.02
+1297,2016,Anoka,8.78
+1298,2016,Becker,13.9
+1299,2016,Beltrami,6.73
+1300,2016,Benton,2.61
+1301,2016,Big Stone,3.98
+1302,2016,Blue Earth,7.31
+1303,2016,Brown,4.86
+1304,2016,Carlton,4.88
+1305,2016,Carver,6.5
+1306,2016,Cass,6.82
+1307,2016,Chippewa,4.61
+1308,2016,Chisago,5.15
+1309,2016,Clay,6.75
+1310,2016,Clearwater,4.26
+1311,2016,Cook,3.69
+1312,2016,Cottonwood,0.5
+1313,2016,Crow Wing,7.42
+1314,2016,Dakota,0.5
+1315,2016,Dodge,2.49
+1316,2016,Douglas,6.52
+1317,2016,Faribault,8.38
+1318,2016,Fillmore,2.5
+1319,2016,Freeborn,11.2
+1320,2016,Goodhue,7.44
+1321,2016,Grant,9.37
+1322,2016,Hennepin,8.16
+1323,2016,Houston,1.42
+1324,2016,Hubbard,0.5
+1325,2016,Isanti,0.5
+1326,2016,Itasca,4.65
+1327,2016,Jackson,6.92
+1328,2016,Kanabec,5.08
+1329,2016,Kandiyohi,9.95
+1330,2016,Kittson,1.28
+1331,2016,Koochiching,2.79
+1332,2016,Lac Qui Parle,1.86
+1333,2016,Lake of the Woods,3.23
+1334,2016,Le Sueur,5.47
+1335,2016,Lincoln,1.86
+1336,2016,Lyon,3.18
+1337,2016,Mahnomen,8.79
+1338,2016,Marshall,4.99
+1339,2016,Martin,8.64
+1340,2016,McLeod,8.28
+1341,2016,Meeker,5.3
+1342,2016,Mille Lacs,2.72
+1343,2016,Morrison,4.02
+1344,2016,Mower,3.92
+1345,2016,Murray,9.16
+1346,2016,Nicollet,2.51
+1347,2016,Nobles,1.86
+1348,2016,Norman,5.19
+1349,2016,Olmsted,2.27
+1350,2016,Otter Tail,10
+1351,2016,Pennington,2.5
+1352,2016,Pine,3.53
+1353,2016,Pipestone,4.44
+1354,2016,Polk,21.1
+1355,2016,Pope,9.96
+1356,2016,Ramsey,7.66
+1357,2016,Red Lake,2.71
+1358,2016,Redwood,2.2
+1359,2016,Renville,7.83
+1360,2016,Rice,4.76
+1361,2016,Rock,6.22
+1362,2016,Roseau,9.47
+1363,2016,Scott,3.75
+1364,2016,Sherburne,3.27
+1365,2016,Sibley,5.92
+1366,2016,St. Louis,5.73
+1367,2016,Stearns,8.4
+1368,2016,Steele,1.24
+1369,2016,Stevens,5.37
+1370,2016,Swift,4.19
+1371,2016,Todd,4.85
+1372,2016,Traverse,4.11
+1373,2016,Wabasha,1.1
+1374,2016,Wadena,1.62
+1375,2016,Waseca,3.79
+1376,2016,Washington,4.39
+1377,2016,Watonwan,7.97
+1378,2016,Wilkin,2.5
+1379,2016,Winona,1.02
+1380,2016,Wright,7.44
+1381,2016,Yellow Medicine,2.99
+1382,2017,Aitkin,6.02
+1383,2017,Anoka,6.18
+1384,2017,Becker,11.9
+1385,2017,Beltrami,4.37
+1386,2017,Benton,2.61
+1387,2017,Big Stone,3.98
+1388,2017,Blue Earth,7.31
+1389,2017,Brown,10
+1390,2017,Carlton,4.88
+1391,2017,Carver,6.5
+1392,2017,Cass,6.82
+1393,2017,Chippewa,4.61
+1394,2017,Chisago,5.15
+1395,2017,Clay,6.33
+1396,2017,Clearwater,4.26
+1397,2017,Cook,3.69
+1398,2017,Cottonwood,1.25
+1399,2017,Crow Wing,9.88
+1400,2017,Dakota,0.5
+1401,2017,Dodge,2.49
+1402,2017,Douglas,6.52
+1403,2017,Faribault,8.38
+1404,2017,Fillmore,2.5
+1405,2017,Freeborn,6.07
+1406,2017,Goodhue,7.44
+1407,2017,Grant,8.48
+1408,2017,Hennepin,8.43
+1409,2017,Houston,1.42
+1410,2017,Hubbard,0.5
+1411,2017,Isanti,0.5
+1412,2017,Itasca,4.48
+1413,2017,Jackson,4.62
+1414,2017,Kanabec,5.08
+1415,2017,Kandiyohi,9.68
+1416,2017,Kittson,1.28
+1417,2017,Koochiching,2.67
+1418,2017,Lac Qui Parle,1.86
+1419,2017,Lake of the Woods,3.23
+1420,2017,Le Sueur,6
+1421,2017,Lincoln,1.86
+1422,2017,Lyon,3.18
+1423,2017,Mahnomen,8.79
+1424,2017,Marshall,4.99
+1425,2017,Martin,8.64
+1426,2017,McLeod,8.28
+1427,2017,Meeker,9.39
+1428,2017,Mille Lacs,2.72
+1429,2017,Morrison,4.02
+1430,2017,Mower,3.92
+1431,2017,Murray,9.16
+1432,2017,Nicollet,8.47
+1433,2017,Nobles,1.86
+1434,2017,Norman,6.63
+1435,2017,Olmsted,2.27
+1436,2017,Otter Tail,10.2
+1437,2017,Pennington,2.5
+1438,2017,Pine,3.53
+1439,2017,Pipestone,4.44
+1440,2017,Polk,27.1
+1441,2017,Pope,11.3
+1442,2017,Ramsey,7.66
+1443,2017,Red Lake,2.26
+1444,2017,Redwood,2.2
+1445,2017,Renville,4.6
+1446,2017,Rice,4.76
+1447,2017,Rock,6.22
+1448,2017,Roseau,13.2
+1449,2017,Scott,3.75
+1450,2017,Sherburne,3.27
+1451,2017,Sibley,4.88
+1452,2017,St. Louis,5.73
+1453,2017,Stearns,13.6
+1454,2017,Steele,1.24
+1455,2017,Stevens,5.37
+1456,2017,Swift,4.43
+1457,2017,Todd,4.85
+1458,2017,Traverse,6.98
+1459,2017,Wabasha,1.1
+1460,2017,Wadena,2.63
+1461,2017,Waseca,5.9
+1462,2017,Washington,4.39
+1463,2017,Watonwan,8.18
+1464,2017,Wilkin,2.5
+1465,2017,Winona,1.02
+1466,2017,Wright,7.28
+1467,2017,Yellow Medicine,5.42
+1468,2018,Aitkin,6.02
+1469,2018,Anoka,9.03
+1470,2018,Becker,12.9
+1471,2018,Beltrami,10.5
+1472,2018,Benton,2.38
+1473,2018,Big Stone,3.98
+1474,2018,Blue Earth,7.84
+1475,2018,Brown,8.59
+1476,2018,Carlton,4.88
+1477,2018,Carver,6.79
+1478,2018,Cass,9.47
+1479,2018,Chippewa,4.61
+1480,2018,Chisago,5.15
+1481,2018,Clay,5.88
+1482,2018,Clearwater,4.82
+1483,2018,Cook,3.68
+1484,2018,Cottonwood,1.25
+1485,2018,Crow Wing,8.71
+1486,2018,Dakota,0.5
+1487,2018,Dodge,2.49
+1488,2018,Douglas,7.06
+1489,2018,Faribault,6.98
+1490,2018,Fillmore,2.5
+1491,2018,Freeborn,6.07
+1492,2018,Goodhue,7.44
+1493,2018,Grant,20.9
+1494,2018,Hennepin,13.7
+1495,2018,Houston,1.02
+1496,2018,Hubbard,2.22
+1497,2018,Isanti,1.32
+1498,2018,Itasca,4.48
+1499,2018,Jackson,7.06
+1500,2018,Kanabec,2.99
+1501,2018,Kandiyohi,11.9
+1502,2018,Kittson,1.28
+1503,2018,Koochiching,2.98
+1504,2018,Lac Qui Parle,1.21
+1505,2018,Lake,0.5
+1506,2018,Lake of the Woods,3.23
+1507,2018,Le Sueur,6
+1508,2018,Lincoln,1.21
+1509,2018,Lyon,2.04
+1510,2018,Mahnomen,3.7
+1511,2018,Marshall,4.99
+1512,2018,Martin,8.64
+1513,2018,McLeod,8.28
+1514,2018,Meeker,7.87
+1515,2018,Mille Lacs,2.53
+1516,2018,Morrison,4.02
+1517,2018,Mower,3.92
+1518,2018,Murray,7.15
+1519,2018,Nicollet,1.04
+1520,2018,Nobles,1.21
+1521,2018,Norman,6.63
+1522,2018,Olmsted,1.77
+1523,2018,Otter Tail,16.8
+1524,2018,Pennington,0.5
+1525,2018,Pine,3.32
+1526,2018,Pipestone,4.44
+1527,2018,Polk,23
+1528,2018,Pope,6.07
+1529,2018,Ramsey,7.66
+1530,2018,Red Lake,2.26
+1531,2018,Redwood,2.2
+1532,2018,Renville,4.12
+1533,2018,Rice,4.76
+1534,2018,Rock,6.22
+1535,2018,Roseau,22.8
+1536,2018,Scott,7.09
+1537,2018,Sherburne,2.88
+1538,2018,Sibley,4.83
+1539,2018,St. Louis,5.21
+1540,2018,Stearns,14.4
+1541,2018,Steele,1.49
+1542,2018,Stevens,3.27
+1543,2018,Swift,8.19
+1544,2018,Todd,6.06
+1545,2018,Traverse,3.93
+1546,2018,Wabasha,1.1
+1547,2018,Wadena,2.63
+1548,2018,Waseca,5.9
+1549,2018,Washington,4.36
+1550,2018,Watonwan,8.18
+1551,2018,Wilkin,6.56
+1552,2018,Winona,0.5
+1553,2018,Wright,7.05
+1554,2018,Yellow Medicine,2.99
+1555,2019,Aitkin,6.02
+1556,2019,Anoka,6.94
+1557,2019,Becker,6.05
+1558,2019,Beltrami,4.47
+1559,2019,Benton,2.41
+1560,2019,Big Stone,3.98
+1561,2019,Blue Earth,7.37
+1562,2019,Brown,5.28
+1563,2019,Carlton,4.88
+1564,2019,Carver,6.14
+1565,2019,Cass,9.14
+1566,2019,Chippewa,4.61
+1567,2019,Chisago,5.15
+1568,2019,Clay,4.83
+1569,2019,Clearwater,4.37
+1570,2019,Cook,3.68
+1571,2019,Cottonwood,2.47
+1572,2019,Crow Wing,6.98
+1573,2019,Dakota,0.5
+1574,2019,Dodge,2.49
+1575,2019,Douglas,7.03
+1576,2019,Faribault,6.98
+1577,2019,Fillmore,2.5
+1578,2019,Freeborn,4.37
+1579,2019,Goodhue,7.44
+1580,2019,Grant,13.5
+1581,2019,Hennepin,8.05
+1582,2019,Houston,1.02
+1583,2019,Hubbard,2.22
+1584,2019,Isanti,0.5
+1585,2019,Itasca,4.48
+1586,2019,Jackson,6.76
+1587,2019,Kanabec,2.99
+1588,2019,Kandiyohi,21.7
+1589,2019,Kittson,1.28
+1590,2019,Koochiching,3.35
+1591,2019,Lac Qui Parle,2.47
+1592,2019,Lake,0.5
+1593,2019,Lake of the Woods,3.23
+1594,2019,Le Sueur,6
+1595,2019,Lincoln,2.47
+1596,2019,Lyon,2.47
+1597,2019,Mahnomen,5.4
+1598,2019,Marshall,4.99
+1599,2019,Martin,8.64
+1600,2019,McLeod,10.5
+1601,2019,Meeker,6.67
+1602,2019,Mille Lacs,2.53
+1603,2019,Morrison,4.02
+1604,2019,Mower,3.92
+1605,2019,Murray,8.26
+1606,2019,Nicollet,1.94
+1607,2019,Nobles,3.11
+1608,2019,Norman,6.63
+1609,2019,Olmsted,1.77
+1610,2019,Otter Tail,11.5
+1611,2019,Pennington,0.5
+1612,2019,Pine,3.32
+1613,2019,Pipestone,4.44
+1614,2019,Polk,18.8
+1615,2019,Pope,6.07
+1616,2019,Ramsey,7.66
+1617,2019,Red Lake,2.26
+1618,2019,Redwood,2.47
+1619,2019,Renville,5.09
+1620,2019,Rice,3.01
+1621,2019,Rock,6.22
+1622,2019,Roseau,18.1
+1623,2019,Scott,7.09
+1624,2019,Sherburne,2.88
+1625,2019,Sibley,5.7
+1626,2019,St. Louis,5.21
+1627,2019,Stearns,12.1
+1628,2019,Steele,1.49
+1629,2019,Stevens,1.89
+1630,2019,Swift,4.28
+1631,2019,Todd,5.79
+1632,2019,Traverse,3.85
+1633,2019,Wabasha,1.1
+1634,2019,Wadena,2.63
+1635,2019,Waseca,5.9
+1636,2019,Washington,4.36
+1637,2019,Watonwan,9.47
+1638,2019,Wilkin,3.49
+1639,2019,Winona,2.96
+1640,2019,Wright,7.63
+1641,2019,Yellow Medicine,2.99
+1642,2020,Aitkin,6.63
+1643,2020,Anoka,6.94
+1644,2020,Becker,12.5
+1645,2020,Beltrami,4.88
+1646,2020,Benton,2.63
+1647,2020,Big Stone,1.53
+1648,2020,Blue Earth,6.88
+1649,2020,Brown,6.25
+1650,2020,Carlton,4.88
+1651,2020,Carver,6.53
+1652,2020,Cass,8.38
+1653,2020,Chippewa,3.95
+1654,2020,Chisago,5.15
+1655,2020,Clay,7.35
+1656,2020,Clearwater,4.37
+1657,2020,Cook,3.68
+1658,2020,Cottonwood,2.47
+1659,2020,Crow Wing,7.64
+1660,2020,Dakota,0.5
+1661,2020,Dodge,11.2
+1662,2020,Douglas,1.39
+1663,2020,Faribault,8.93
+1664,2020,Fillmore,2.5
+1665,2020,Freeborn,4.37
+1666,2020,Goodhue,7.44
+1667,2020,Grant,9.72
+1668,2020,Hennepin,8.89
+1669,2020,Houston,0.5
+1670,2020,Hubbard,2.22
+1671,2020,Isanti,0.5
+1672,2020,Itasca,4.48
+1673,2020,Jackson,6.87
+1674,2020,Kanabec,2.99
+1675,2020,Kandiyohi,19.4
+1676,2020,Kittson,0.5
+1677,2020,Koochiching,4.7
+1678,2020,Lac Qui Parle,1.37
+1679,2020,Lake,0.5
+1680,2020,Lake of the Woods,2.91
+1681,2020,Le Sueur,6
+1682,2020,Lincoln,1.37
+1683,2020,Lyon,2.27
+1684,2020,Mahnomen,4.21
+1685,2020,Marshall,3.65
+1686,2020,Martin,8.64
+1687,2020,McLeod,13.5
+1688,2020,Meeker,33.6
+1689,2020,Mille Lacs,2.53
+1690,2020,Morrison,4.01
+1691,2020,Mower,4.84
+1692,2020,Murray,8.26
+1693,2020,Nicollet,1.26
+1694,2020,Nobles,1.97
+1695,2020,Norman,8
+1696,2020,Olmsted,1.77
+1697,2020,Otter Tail,13.1
+1698,2020,Pennington,0.5
+1699,2020,Pine,3.32
+1700,2020,Pipestone,4.57
+1701,2020,Polk,12.2
+1702,2020,Pope,6.07
+1703,2020,Ramsey,6.37
+1704,2020,Red Lake,2.26
+1705,2020,Redwood,2.35
+1706,2020,Renville,4.6
+1707,2020,Rice,3.01
+1708,2020,Rock,6.22
+1709,2020,Roseau,9.04
+1710,2020,Scott,7.09
+1711,2020,Sherburne,2.88
+1712,2020,Sibley,5.7
+1713,2020,St. Louis,5.21
+1714,2020,Stearns,14.3
+1715,2020,Steele,1.49
+1716,2020,Stevens,1.84
+1717,2020,Swift,4.27
+1718,2020,Todd,5.5
+1719,2020,Traverse,4.53
+1720,2020,Wabasha,1.1
+1721,2020,Wadena,2.63
+1722,2020,Waseca,5.9
+1723,2020,Washington,4.36
+1724,2020,Watonwan,7.15
+1725,2020,Wilkin,4.21
+1726,2020,Winona,2.96
+1727,2020,Wright,7.59
+1728,2020,Yellow Medicine,2.99
+1729,2021,Aitkin,6.63
+1730,2021,Anoka,6.94
+1731,2021,Becker,13.1
+1732,2021,Beltrami,4.88
+1733,2021,Benton,2.75
+1734,2021,Big Stone,1.53
+1735,2021,Blue Earth,4.92
+1736,2021,Brown,4.91
+1737,2021,Carlton,4.88
+1738,2021,Carver,8.51
+1739,2021,Cass,8.61
+1740,2021,Chippewa,3.95
+1741,2021,Chisago,5.31
+1742,2021,Clay,24.9
+1743,2021,Clearwater,4.37
+1744,2021,Cook,3.68
+1745,2021,Cottonwood,2.47
+1746,2021,Crow Wing,7.89
+1747,2021,Dakota,0.5
+1748,2021,Dodge,2.49
+1749,2021,Douglas,2.12
+1750,2021,Faribault,8.93
+1751,2021,Fillmore,0.5
+1752,2021,Freeborn,4.37
+1753,2021,Goodhue,7.44
+1754,2021,Grant,14.3
+1755,2021,Hennepin,10.8
+1756,2021,Houston,0.5
+1757,2021,Hubbard,2.22
+1758,2021,Isanti,0.5
+1759,2021,Itasca,4.48
+1760,2021,Jackson,7.24
+1761,2021,Kanabec,2.99
+1762,2021,Kandiyohi,12.1
+1763,2021,Kittson,0.5
+1764,2021,Koochiching,2.82
+1765,2021,Lac Qui Parle,2.55
+1766,2021,Lake,0.5
+1767,2021,Lake of the Woods,2.91
+1768,2021,Le Sueur,6
+1769,2021,Lincoln,2.1
+1770,2021,Lyon,2.1
+1771,2021,Mahnomen,4.91
+1772,2021,Marshall,3.65
+1773,2021,Martin,8.64
+1774,2021,McLeod,10.1
+1775,2021,Meeker,44.6
+1776,2021,Mille Lacs,2.44
+1777,2021,Morrison,4.01
+1778,2021,Mower,4.84
+1779,2021,Murray,19.1
+1780,2021,Nicollet,9.04
+1781,2021,Nobles,3.32
+1782,2021,Norman,8
+1783,2021,Olmsted,1.77
+1784,2021,Otter Tail,12
+1785,2021,Pennington,0.5
+1786,2021,Pine,3.32
+1787,2021,Pipestone,4.57
+1788,2021,Polk,15.4
+1789,2021,Pope,6.07
+1790,2021,Ramsey,6.37
+1791,2021,Red Lake,2.26
+1792,2021,Redwood,2.35
+1793,2021,Renville,6.49
+1794,2021,Rice,3.7
+1795,2021,Rock,6.22
+1796,2021,Roseau,13.7
+1797,2021,Scott,7.09
+1798,2021,Sherburne,2.88
+1799,2021,Sibley,42
+1800,2021,St. Louis,5.04
+1801,2021,Stearns,5.75
+1802,2021,Steele,1.49
+1803,2021,Stevens,9.25
+1804,2021,Swift,8.8
+1805,2021,Todd,5.82
+1806,2021,Traverse,5.2
+1807,2021,Wabasha,1.1
+1808,2021,Wadena,2.63
+1809,2021,Waseca,5.9
+1810,2021,Washington,3.44
+1811,2021,Watonwan,3.76
+1812,2021,Wilkin,5.54
+1813,2021,Winona,2.96
+1814,2021,Wright,8.14
+1815,2021,Yellow Medicine,17.7
+1816,2022,Aitkin,6.6
+1817,2022,Anoka,6.94
+1818,2022,Becker,3.56
+1819,2022,Beltrami,4.76
+1820,2022,Benton,2.55
+1821,2022,Big Stone,1.53
+1822,2022,Blue Earth,5.65
+1823,2022,Brown,6.09
+1824,2022,Carlton,4.96
+1825,2022,Carver,5.81
+1826,2022,Cass,8.53
+1827,2022,Chippewa,3.95
+1828,2022,Chisago,5.31
+1829,2022,Clay,7.4
+1830,2022,Clearwater,5.58
+1831,2022,Cook,3.68
+1832,2022,Cottonwood,0.5
+1833,2022,Crow Wing,7.89
+1834,2022,Dakota,0.5
+1835,2022,Dodge,2.54
+1836,2022,Douglas,1.53
+1837,2022,Faribault,8.93
+1838,2022,Fillmore,0.5
+1839,2022,Freeborn,4.37
+1840,2022,Goodhue,7.44
+1841,2022,Grant,9.42
+1842,2022,Hennepin,10.7
+1843,2022,Houston,0.5
+1844,2022,Hubbard,2.21
+1845,2022,Isanti,1.43
+1846,2022,Itasca,4.48
+1847,2022,Jackson,20.2
+1848,2022,Kanabec,2.99
+1849,2022,Kandiyohi,44
+1850,2022,Kittson,0.5
+1851,2022,Koochiching,1.59
+1852,2022,Lac Qui Parle,1.8
+1853,2022,Lake,0.5
+1854,2022,Lake of the Woods,2.91
+1855,2022,Le Sueur,6
+1856,2022,Lincoln,1.8
+1857,2022,Lyon,1.8
+1858,2022,Mahnomen,3.57
+1859,2022,Marshall,3.65
+1860,2022,Martin,8.64
+1861,2022,McLeod,7.69
+1862,2022,Meeker,7.32
+1863,2022,Mille Lacs,2.44
+1864,2022,Morrison,4.01
+1865,2022,Mower,4.84
+1866,2022,Murray,5.33
+1867,2022,Nicollet,9.04
+1868,2022,Nobles,2.83
+1869,2022,Norman,13
+1870,2022,Olmsted,1.77
+1871,2022,Otter Tail,17
+1872,2022,Pennington,0.5
+1873,2022,Pine,3.32
+1874,2022,Pipestone,4.57
+1875,2022,Polk,27.6
+1876,2022,Pope,6.07
+1877,2022,Ramsey,6.37
+1878,2022,Red Lake,2.26
+1879,2022,Redwood,2.35
+1880,2022,Renville,4
+1881,2022,Rice,3.7
+1882,2022,Rock,6.22
+1883,2022,Roseau,15
+1884,2022,Scott,7.09
+1885,2022,Sherburne,2.88
+1886,2022,Sibley,40.9
+1887,2022,St. Louis,5.04
+1888,2022,Stearns,6.53
+1889,2022,Steele,1.49
+1890,2022,Stevens,1.94
+1891,2022,Swift,4.57
+1892,2022,Todd,6.06
+1893,2022,Traverse,4.77
+1894,2022,Wabasha,1.1
+1895,2022,Wadena,2.63
+1896,2022,Waseca,5.9
+1897,2022,Washington,3.44
+1898,2022,Watonwan,8.94
+1899,2022,Wilkin,3.97
+1900,2022,Winona,3.03
+1901,2022,Wright,7.53
+1902,2022,Yellow Medicine,4.06
