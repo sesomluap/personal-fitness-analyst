@@ -21,6 +21,12 @@ Consulting with expert statisticians may be required when comparing some of thes
 Conclusion
 While the initial analysis did not reveal strong correlations, it's important to note that the absence of results does not imply the absence of a connection. Further research, possibly incorporating insights from experts in the field, is recommended for a more comprehensive understanding of the relationships between poverty, environmental factors, and health outcomes.
 
+Code Files:
+census_poverty_import.ipynb
+analysis.ipynb
+Data pulled from CSVs in "Resources" folder
+Charts outputted into "Charts" folder
+
 Sources:
 Used code we learned in class. 
 Used code from previous in-class activities and homework assignments. 
